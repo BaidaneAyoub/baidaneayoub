@@ -83,7 +83,7 @@ I'm a 1st-year Big Data and Artificial Intelligence (BDIA) student at ENSA Této
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baidaneayoub&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=a855f7&icon_color=a855f7&text_color=888888&include_all_commits=false&count_private=false)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=baidaneayoub&theme=dark&hide_border=true&background=0d0d0d&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com/?user=baidaneayoub&theme=dark&hide_border=true&background=0d0d0d&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baidaneayoub&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=888888&include_all_commits=false&count_private=false)
 
@@ -105,7 +105,7 @@ I'm a 1st-year Big Data and Artificial Intelligence (BDIA) student at ENSA Této
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=baidaneayoub&icon=0&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=baidaneayoub&style=flat-square&color=7c3aed&label=PROFILE+VIEWS)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=80&section=footer"/>
