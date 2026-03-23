@@ -81,7 +81,7 @@ I'm a 1st-year Big Data and Artificial Intelligence (BDIA) student at ENSA Této
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baidaneayoub&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=a855f7&icon_color=a855f7&text_color=888888&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baidaneayoub&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=a855f7&icon_color=a855f7&text_color=888888&include_all_commits=true&count_private=true&v=1)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=baidaneayoub&theme=dark&hide_border=true&background=0d0d0d&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff)
 
