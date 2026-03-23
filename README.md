@@ -31,7 +31,7 @@ I'm a 1st-year Big Data and Artificial Intelligence (BDIA) student at ENSA Této
 | **Looking to collaborate on** | Open-source Data Engineering projects, AI hackathons, and full-stack platforms |
 | **Looking for help with** | Scaling distributed data processing systems using advanced Apache Spark and Hadoop architectures |
 | **Currently learning** | The IBM Data Engineering and Meta Back-End Developer Professional Certificates |
-| **Ask me about** | Python, Docker, building full-stack web platforms (React/Node.js/Django), or my best strategies for surviving in Raft and conquering in Hearts of Iron IV! |
+| **Ask me about** | Python, Docker, building full-stack web platforms (React/Node.js/Django).|
 | **Fun fact** | I helped build and launch a full-stack community web platform for my major in just 5 months! When I'm not optimizing queries, I'm probably grinding in Elden Ring |
 
 ---
