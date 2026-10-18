@@ -1,0 +1,746 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="216" viewBox="0 0 880 216" role="img" aria-labelledby="title desc">
+<title id="title">BaidaneAyoub contribution snake</title>
+<desc id="desc">Actual GitHub contribution levels from 2025-10-19 to 2026-10-18. Snapshot 2026-10-18. Purple snake sweeps the calendar.</desc>
+<style>.cell{fill:#202735;stroke:#303849}.l1{fill:#544080}.l2{fill:#8056b8}.l3{fill:#ad7df0}.l4{fill:#d8b4fe}.snake{fill:#f0abfc}.label{fill:#cbd5e1;font:13px ui-monospace,monospace}@media(prefers-reduced-motion:reduce){.snake{display:none}.cell{opacity:1!important;animation:none!important}}
+@keyframes c0{0%,0.257%{opacity:1}0.267%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c1{0%,0.525%{opacity:1}0.535%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c2{0%,0.792%{opacity:1}0.802%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c3{0%,1.060%{opacity:1}1.070%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c4{0%,1.327%{opacity:1}1.337%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c5{0%,1.594%{opacity:1}1.604%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c6{0%,1.862%{opacity:1}1.872%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c13{0%,3.733%{opacity:1}3.743%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c12{0%,3.466%{opacity:1}3.476%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c11{0%,3.199%{opacity:1}3.209%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c10{0%,2.931%{opacity:1}2.941%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c9{0%,2.664%{opacity:1}2.674%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c8{0%,2.396%{opacity:1}2.406%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c7{0%,2.129%{opacity:1}2.139%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c14{0%,4.001%{opacity:1}4.011%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c15{0%,4.268%{opacity:1}4.278%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c16{0%,4.535%{opacity:1}4.545%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c17{0%,4.803%{opacity:1}4.813%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c18{0%,5.070%{opacity:1}5.080%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c19{0%,5.338%{opacity:1}5.348%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c20{0%,5.605%{opacity:1}5.615%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c27{0%,7.477%{opacity:1}7.487%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c26{0%,7.209%{opacity:1}7.219%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c25{0%,6.942%{opacity:1}6.952%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c24{0%,6.674%{opacity:1}6.684%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c23{0%,6.407%{opacity:1}6.417%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c22{0%,6.140%{opacity:1}6.150%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c21{0%,5.872%{opacity:1}5.882%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c28{0%,7.744%{opacity:1}7.754%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c29{0%,8.011%{opacity:1}8.021%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c30{0%,8.279%{opacity:1}8.289%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c31{0%,8.546%{opacity:1}8.556%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c32{0%,8.814%{opacity:1}8.824%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c33{0%,9.081%{opacity:1}9.091%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c34{0%,9.348%{opacity:1}9.358%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c41{0%,11.220%{opacity:1}11.230%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c40{0%,10.953%{opacity:1}10.963%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c39{0%,10.685%{opacity:1}10.695%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c38{0%,10.418%{opacity:1}10.428%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c37{0%,10.150%{opacity:1}10.160%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c36{0%,9.883%{opacity:1}9.893%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c35{0%,9.616%{opacity:1}9.626%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c42{0%,11.487%{opacity:1}11.497%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c43{0%,11.755%{opacity:1}11.765%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c44{0%,12.022%{opacity:1}12.032%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c45{0%,12.289%{opacity:1}12.299%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c46{0%,12.557%{opacity:1}12.567%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c47{0%,12.824%{opacity:1}12.834%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c48{0%,13.092%{opacity:1}13.102%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c55{0%,14.963%{opacity:1}14.973%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c54{0%,14.696%{opacity:1}14.706%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c53{0%,14.429%{opacity:1}14.439%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c52{0%,14.161%{opacity:1}14.171%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c51{0%,13.894%{opacity:1}13.904%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c50{0%,13.626%{opacity:1}13.636%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c49{0%,13.359%{opacity:1}13.369%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c56{0%,15.231%{opacity:1}15.241%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c57{0%,15.498%{opacity:1}15.508%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c58{0%,15.765%{opacity:1}15.775%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c59{0%,16.033%{opacity:1}16.043%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c60{0%,16.300%{opacity:1}16.310%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c61{0%,16.568%{opacity:1}16.578%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c62{0%,16.835%{opacity:1}16.845%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c69{0%,18.707%{opacity:1}18.717%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c68{0%,18.439%{opacity:1}18.449%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c67{0%,18.172%{opacity:1}18.182%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c66{0%,17.904%{opacity:1}17.914%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c65{0%,17.637%{opacity:1}17.647%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c64{0%,17.370%{opacity:1}17.380%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c63{0%,17.102%{opacity:1}17.112%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c70{0%,18.974%{opacity:1}18.984%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c71{0%,19.241%{opacity:1}19.251%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c72{0%,19.509%{opacity:1}19.519%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c73{0%,19.776%{opacity:1}19.786%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c74{0%,20.043%{opacity:1}20.053%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c75{0%,20.311%{opacity:1}20.321%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c76{0%,20.578%{opacity:1}20.588%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c83{0%,22.450%{opacity:1}22.460%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c82{0%,22.183%{opacity:1}22.193%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c81{0%,21.915%{opacity:1}21.925%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c80{0%,21.648%{opacity:1}21.658%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c79{0%,21.380%{opacity:1}21.390%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c78{0%,21.113%{opacity:1}21.123%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c77{0%,20.846%{opacity:1}20.856%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c84{0%,22.717%{opacity:1}22.727%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c85{0%,22.985%{opacity:1}22.995%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c86{0%,23.252%{opacity:1}23.262%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c87{0%,23.519%{opacity:1}23.529%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c88{0%,23.787%{opacity:1}23.797%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c89{0%,24.054%{opacity:1}24.064%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c90{0%,24.322%{opacity:1}24.332%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c97{0%,26.193%{opacity:1}26.203%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c96{0%,25.926%{opacity:1}25.936%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c95{0%,25.658%{opacity:1}25.668%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c94{0%,25.391%{opacity:1}25.401%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c93{0%,25.124%{opacity:1}25.134%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c92{0%,24.856%{opacity:1}24.866%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c91{0%,24.589%{opacity:1}24.599%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c98{0%,26.461%{opacity:1}26.471%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c99{0%,26.728%{opacity:1}26.738%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c100{0%,26.995%{opacity:1}27.005%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c101{0%,27.263%{opacity:1}27.273%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c102{0%,27.530%{opacity:1}27.540%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c103{0%,27.797%{opacity:1}27.807%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c104{0%,28.065%{opacity:1}28.075%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c111{0%,29.937%{opacity:1}29.947%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c110{0%,29.669%{opacity:1}29.679%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c109{0%,29.402%{opacity:1}29.412%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c108{0%,29.134%{opacity:1}29.144%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c107{0%,28.867%{opacity:1}28.877%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c106{0%,28.600%{opacity:1}28.610%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c105{0%,28.332%{opacity:1}28.342%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c112{0%,30.204%{opacity:1}30.214%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c113{0%,30.471%{opacity:1}30.481%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c114{0%,30.739%{opacity:1}30.749%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c115{0%,31.006%{opacity:1}31.016%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c116{0%,31.273%{opacity:1}31.283%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c117{0%,31.541%{opacity:1}31.551%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c118{0%,31.808%{opacity:1}31.818%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c125{0%,33.680%{opacity:1}33.690%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c124{0%,33.412%{opacity:1}33.422%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c123{0%,33.145%{opacity:1}33.155%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c122{0%,32.878%{opacity:1}32.888%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c121{0%,32.610%{opacity:1}32.620%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c120{0%,32.343%{opacity:1}32.353%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c119{0%,32.076%{opacity:1}32.086%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c126{0%,33.947%{opacity:1}33.957%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c127{0%,34.215%{opacity:1}34.225%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c128{0%,34.482%{opacity:1}34.492%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c129{0%,34.749%{opacity:1}34.759%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c130{0%,35.017%{opacity:1}35.027%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c131{0%,35.284%{opacity:1}35.294%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c132{0%,35.551%{opacity:1}35.561%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c139{0%,37.423%{opacity:1}37.433%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c138{0%,37.156%{opacity:1}37.166%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c137{0%,36.888%{opacity:1}36.898%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c136{0%,36.621%{opacity:1}36.631%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c135{0%,36.354%{opacity:1}36.364%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c134{0%,36.086%{opacity:1}36.096%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c133{0%,35.819%{opacity:1}35.829%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c140{0%,37.691%{opacity:1}37.701%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c141{0%,37.958%{opacity:1}37.968%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c142{0%,38.225%{opacity:1}38.235%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c143{0%,38.493%{opacity:1}38.503%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c144{0%,38.760%{opacity:1}38.770%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c145{0%,39.027%{opacity:1}39.037%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c146{0%,39.295%{opacity:1}39.305%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c153{0%,41.166%{opacity:1}41.176%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c152{0%,40.899%{opacity:1}40.909%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c151{0%,40.632%{opacity:1}40.642%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c150{0%,40.364%{opacity:1}40.374%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c149{0%,40.097%{opacity:1}40.107%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c148{0%,39.830%{opacity:1}39.840%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c147{0%,39.562%{opacity:1}39.572%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c154{0%,41.434%{opacity:1}41.444%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c155{0%,41.701%{opacity:1}41.711%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c156{0%,41.969%{opacity:1}41.979%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c157{0%,42.236%{opacity:1}42.246%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c158{0%,42.503%{opacity:1}42.513%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c159{0%,42.771%{opacity:1}42.781%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c160{0%,43.038%{opacity:1}43.048%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c167{0%,44.910%{opacity:1}44.920%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c166{0%,44.642%{opacity:1}44.652%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c165{0%,44.375%{opacity:1}44.385%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c164{0%,44.108%{opacity:1}44.118%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c163{0%,43.840%{opacity:1}43.850%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c162{0%,43.573%{opacity:1}43.583%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c161{0%,43.306%{opacity:1}43.316%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c168{0%,45.177%{opacity:1}45.187%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c169{0%,45.445%{opacity:1}45.455%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c170{0%,45.712%{opacity:1}45.722%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c171{0%,45.979%{opacity:1}45.989%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c172{0%,46.247%{opacity:1}46.257%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c173{0%,46.514%{opacity:1}46.524%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c174{0%,46.781%{opacity:1}46.791%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c181{0%,48.653%{opacity:1}48.663%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c180{0%,48.386%{opacity:1}48.396%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c179{0%,48.118%{opacity:1}48.128%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c178{0%,47.851%{opacity:1}47.861%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c177{0%,47.584%{opacity:1}47.594%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c176{0%,47.316%{opacity:1}47.326%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c175{0%,47.049%{opacity:1}47.059%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c182{0%,48.920%{opacity:1}48.930%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c183{0%,49.188%{opacity:1}49.198%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c184{0%,49.455%{opacity:1}49.465%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c185{0%,49.723%{opacity:1}49.733%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c186{0%,49.990%{opacity:1}50.000%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c187{0%,50.257%{opacity:1}50.267%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c188{0%,50.525%{opacity:1}50.535%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c195{0%,52.396%{opacity:1}52.406%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c194{0%,52.129%{opacity:1}52.139%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c193{0%,51.862%{opacity:1}51.872%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c192{0%,51.594%{opacity:1}51.604%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c191{0%,51.327%{opacity:1}51.337%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c190{0%,51.060%{opacity:1}51.070%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c189{0%,50.792%{opacity:1}50.802%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c196{0%,52.664%{opacity:1}52.674%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c197{0%,52.931%{opacity:1}52.941%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c198{0%,53.199%{opacity:1}53.209%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c199{0%,53.466%{opacity:1}53.476%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c200{0%,53.733%{opacity:1}53.743%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c201{0%,54.001%{opacity:1}54.011%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c202{0%,54.268%{opacity:1}54.278%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c209{0%,56.140%{opacity:1}56.150%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c208{0%,55.872%{opacity:1}55.882%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c207{0%,55.605%{opacity:1}55.615%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c206{0%,55.338%{opacity:1}55.348%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c205{0%,55.070%{opacity:1}55.080%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c204{0%,54.803%{opacity:1}54.813%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c203{0%,54.535%{opacity:1}54.545%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c210{0%,56.407%{opacity:1}56.417%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c211{0%,56.674%{opacity:1}56.684%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c212{0%,56.942%{opacity:1}56.952%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c213{0%,57.209%{opacity:1}57.219%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c214{0%,57.477%{opacity:1}57.487%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c215{0%,57.744%{opacity:1}57.754%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c216{0%,58.011%{opacity:1}58.021%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c223{0%,59.883%{opacity:1}59.893%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c222{0%,59.616%{opacity:1}59.626%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c221{0%,59.348%{opacity:1}59.358%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c220{0%,59.081%{opacity:1}59.091%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c219{0%,58.814%{opacity:1}58.824%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c218{0%,58.546%{opacity:1}58.556%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c217{0%,58.279%{opacity:1}58.289%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c224{0%,60.150%{opacity:1}60.160%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c225{0%,60.418%{opacity:1}60.428%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c226{0%,60.685%{opacity:1}60.695%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c227{0%,60.953%{opacity:1}60.963%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c228{0%,61.220%{opacity:1}61.230%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c229{0%,61.487%{opacity:1}61.497%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c230{0%,61.755%{opacity:1}61.765%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c237{0%,63.626%{opacity:1}63.636%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c236{0%,63.359%{opacity:1}63.369%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c235{0%,63.092%{opacity:1}63.102%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c234{0%,62.824%{opacity:1}62.834%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c233{0%,62.557%{opacity:1}62.567%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c232{0%,62.289%{opacity:1}62.299%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c231{0%,62.022%{opacity:1}62.032%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c238{0%,63.894%{opacity:1}63.904%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c239{0%,64.161%{opacity:1}64.171%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c240{0%,64.429%{opacity:1}64.439%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c241{0%,64.696%{opacity:1}64.706%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c242{0%,64.963%{opacity:1}64.973%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c243{0%,65.231%{opacity:1}65.241%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c244{0%,65.498%{opacity:1}65.508%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c251{0%,67.370%{opacity:1}67.380%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c250{0%,67.102%{opacity:1}67.112%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c249{0%,66.835%{opacity:1}66.845%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c248{0%,66.568%{opacity:1}66.578%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c247{0%,66.300%{opacity:1}66.310%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c246{0%,66.033%{opacity:1}66.043%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c245{0%,65.765%{opacity:1}65.775%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c252{0%,67.637%{opacity:1}67.647%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c253{0%,67.904%{opacity:1}67.914%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c254{0%,68.172%{opacity:1}68.182%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c255{0%,68.439%{opacity:1}68.449%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c256{0%,68.707%{opacity:1}68.717%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c257{0%,68.974%{opacity:1}68.984%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c258{0%,69.241%{opacity:1}69.251%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c265{0%,71.113%{opacity:1}71.123%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c264{0%,70.846%{opacity:1}70.856%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c263{0%,70.578%{opacity:1}70.588%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c262{0%,70.311%{opacity:1}70.321%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c261{0%,70.043%{opacity:1}70.053%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c260{0%,69.776%{opacity:1}69.786%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c259{0%,69.509%{opacity:1}69.519%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c266{0%,71.380%{opacity:1}71.390%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c267{0%,71.648%{opacity:1}71.658%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c268{0%,71.915%{opacity:1}71.925%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c269{0%,72.183%{opacity:1}72.193%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c270{0%,72.450%{opacity:1}72.460%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c271{0%,72.717%{opacity:1}72.727%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c272{0%,72.985%{opacity:1}72.995%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c279{0%,74.856%{opacity:1}74.866%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c278{0%,74.589%{opacity:1}74.599%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c277{0%,74.322%{opacity:1}74.332%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c276{0%,74.054%{opacity:1}74.064%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c275{0%,73.787%{opacity:1}73.797%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c274{0%,73.519%{opacity:1}73.529%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c273{0%,73.252%{opacity:1}73.262%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c280{0%,75.124%{opacity:1}75.134%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c281{0%,75.391%{opacity:1}75.401%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c282{0%,75.658%{opacity:1}75.668%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c283{0%,75.926%{opacity:1}75.936%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c284{0%,76.193%{opacity:1}76.203%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c285{0%,76.461%{opacity:1}76.471%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c286{0%,76.728%{opacity:1}76.738%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c293{0%,78.600%{opacity:1}78.610%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c292{0%,78.332%{opacity:1}78.342%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c291{0%,78.065%{opacity:1}78.075%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c290{0%,77.797%{opacity:1}77.807%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c289{0%,77.530%{opacity:1}77.540%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c288{0%,77.263%{opacity:1}77.273%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c287{0%,76.995%{opacity:1}77.005%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c294{0%,78.867%{opacity:1}78.877%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c295{0%,79.134%{opacity:1}79.144%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c296{0%,79.402%{opacity:1}79.412%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c297{0%,79.669%{opacity:1}79.679%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c298{0%,79.937%{opacity:1}79.947%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c299{0%,80.204%{opacity:1}80.214%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c300{0%,80.471%{opacity:1}80.481%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c307{0%,82.343%{opacity:1}82.353%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c306{0%,82.076%{opacity:1}82.086%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c305{0%,81.808%{opacity:1}81.818%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c304{0%,81.541%{opacity:1}81.551%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c303{0%,81.273%{opacity:1}81.283%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c302{0%,81.006%{opacity:1}81.016%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c301{0%,80.739%{opacity:1}80.749%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c308{0%,82.610%{opacity:1}82.620%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c309{0%,82.878%{opacity:1}82.888%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c310{0%,83.145%{opacity:1}83.155%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c311{0%,83.412%{opacity:1}83.422%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c312{0%,83.680%{opacity:1}83.690%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c313{0%,83.947%{opacity:1}83.957%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c314{0%,84.215%{opacity:1}84.225%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c321{0%,86.086%{opacity:1}86.096%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c320{0%,85.819%{opacity:1}85.829%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c319{0%,85.551%{opacity:1}85.561%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c318{0%,85.284%{opacity:1}85.294%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c317{0%,85.017%{opacity:1}85.027%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c316{0%,84.749%{opacity:1}84.759%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c315{0%,84.482%{opacity:1}84.492%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c322{0%,86.354%{opacity:1}86.364%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c323{0%,86.621%{opacity:1}86.631%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c324{0%,86.888%{opacity:1}86.898%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c325{0%,87.156%{opacity:1}87.166%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c326{0%,87.423%{opacity:1}87.433%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c327{0%,87.691%{opacity:1}87.701%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c328{0%,87.958%{opacity:1}87.968%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c335{0%,89.830%{opacity:1}89.840%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c334{0%,89.562%{opacity:1}89.572%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c333{0%,89.295%{opacity:1}89.305%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c332{0%,89.027%{opacity:1}89.037%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c331{0%,88.760%{opacity:1}88.770%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c330{0%,88.493%{opacity:1}88.503%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c329{0%,88.225%{opacity:1}88.235%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c336{0%,90.097%{opacity:1}90.107%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c337{0%,90.364%{opacity:1}90.374%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c338{0%,90.632%{opacity:1}90.642%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c339{0%,90.899%{opacity:1}90.909%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c340{0%,91.166%{opacity:1}91.176%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c341{0%,91.434%{opacity:1}91.444%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c342{0%,91.701%{opacity:1}91.711%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c349{0%,93.573%{opacity:1}93.583%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c348{0%,93.306%{opacity:1}93.316%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c347{0%,93.038%{opacity:1}93.048%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c346{0%,92.771%{opacity:1}92.781%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c345{0%,92.503%{opacity:1}92.513%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c344{0%,92.236%{opacity:1}92.246%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c343{0%,91.969%{opacity:1}91.979%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c350{0%,93.840%{opacity:1}93.850%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c351{0%,94.108%{opacity:1}94.118%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c352{0%,94.375%{opacity:1}94.385%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c353{0%,94.642%{opacity:1}94.652%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c354{0%,94.910%{opacity:1}94.920%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c355{0%,95.177%{opacity:1}95.187%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c356{0%,95.445%{opacity:1}95.455%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c363{0%,97.316%{opacity:1}97.326%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c362{0%,97.049%{opacity:1}97.059%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c361{0%,96.781%{opacity:1}96.791%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c360{0%,96.514%{opacity:1}96.524%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c359{0%,96.247%{opacity:1}96.257%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c358{0%,95.979%{opacity:1}95.989%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c357{0%,95.712%{opacity:1}95.722%,97%{opacity:.16}100%{opacity:1}}
+@keyframes c364{0%,97.584%{opacity:1}97.594%,97%{opacity:.16}100%{opacity:1}}
+</style>
+<rect width="880" height="216" rx="16" fill="#0d1117"/>
+<text x="20" y="25" class="label">CONTRIBUTION SNAKE</text>
+<text x="20" y="201" class="label">GitHub activity · 2026-10-18 snapshot</text>
+<rect class="cell l0" x="19" y="47" width="10" height="10" rx="2" style="animation:c0 32s linear infinite"><title>2025-10-19: contribution level 0/4</title></rect>
+<rect class="cell l0" x="19" y="63" width="10" height="10" rx="2" style="animation:c1 32s linear infinite"><title>2025-10-20: contribution level 0/4</title></rect>
+<rect class="cell l0" x="19" y="79" width="10" height="10" rx="2" style="animation:c2 32s linear infinite"><title>2025-10-21: contribution level 0/4</title></rect>
+<rect class="cell l0" x="19" y="95" width="10" height="10" rx="2" style="animation:c3 32s linear infinite"><title>2025-10-22: contribution level 0/4</title></rect>
+<rect class="cell l0" x="19" y="111" width="10" height="10" rx="2" style="animation:c4 32s linear infinite"><title>2025-10-23: contribution level 0/4</title></rect>
+<rect class="cell l0" x="19" y="127" width="10" height="10" rx="2" style="animation:c5 32s linear infinite"><title>2025-10-24: contribution level 0/4</title></rect>
+<rect class="cell l0" x="19" y="143" width="10" height="10" rx="2" style="animation:c6 32s linear infinite"><title>2025-10-25: contribution level 0/4</title></rect>
+<rect class="cell l0" x="35" y="47" width="10" height="10" rx="2" style="animation:c13 32s linear infinite"><title>2025-10-26: contribution level 0/4</title></rect>
+<rect class="cell l0" x="35" y="63" width="10" height="10" rx="2" style="animation:c12 32s linear infinite"><title>2025-10-27: contribution level 0/4</title></rect>
+<rect class="cell l0" x="35" y="79" width="10" height="10" rx="2" style="animation:c11 32s linear infinite"><title>2025-10-28: contribution level 0/4</title></rect>
+<rect class="cell l0" x="35" y="95" width="10" height="10" rx="2" style="animation:c10 32s linear infinite"><title>2025-10-29: contribution level 0/4</title></rect>
+<rect class="cell l0" x="35" y="111" width="10" height="10" rx="2" style="animation:c9 32s linear infinite"><title>2025-10-30: contribution level 0/4</title></rect>
+<rect class="cell l0" x="35" y="127" width="10" height="10" rx="2" style="animation:c8 32s linear infinite"><title>2025-10-31: contribution level 0/4</title></rect>
+<rect class="cell l0" x="35" y="143" width="10" height="10" rx="2" style="animation:c7 32s linear infinite"><title>2025-11-01: contribution level 0/4</title></rect>
+<rect class="cell l0" x="51" y="47" width="10" height="10" rx="2" style="animation:c14 32s linear infinite"><title>2025-11-02: contribution level 0/4</title></rect>
+<rect class="cell l0" x="51" y="63" width="10" height="10" rx="2" style="animation:c15 32s linear infinite"><title>2025-11-03: contribution level 0/4</title></rect>
+<rect class="cell l0" x="51" y="79" width="10" height="10" rx="2" style="animation:c16 32s linear infinite"><title>2025-11-04: contribution level 0/4</title></rect>
+<rect class="cell l0" x="51" y="95" width="10" height="10" rx="2" style="animation:c17 32s linear infinite"><title>2025-11-05: contribution level 0/4</title></rect>
+<rect class="cell l0" x="51" y="111" width="10" height="10" rx="2" style="animation:c18 32s linear infinite"><title>2025-11-06: contribution level 0/4</title></rect>
+<rect class="cell l0" x="51" y="127" width="10" height="10" rx="2" style="animation:c19 32s linear infinite"><title>2025-11-07: contribution level 0/4</title></rect>
+<rect class="cell l0" x="51" y="143" width="10" height="10" rx="2" style="animation:c20 32s linear infinite"><title>2025-11-08: contribution level 0/4</title></rect>
+<rect class="cell l0" x="67" y="47" width="10" height="10" rx="2" style="animation:c27 32s linear infinite"><title>2025-11-09: contribution level 0/4</title></rect>
+<rect class="cell l0" x="67" y="63" width="10" height="10" rx="2" style="animation:c26 32s linear infinite"><title>2025-11-10: contribution level 0/4</title></rect>
+<rect class="cell l0" x="67" y="79" width="10" height="10" rx="2" style="animation:c25 32s linear infinite"><title>2025-11-11: contribution level 0/4</title></rect>
+<rect class="cell l0" x="67" y="95" width="10" height="10" rx="2" style="animation:c24 32s linear infinite"><title>2025-11-12: contribution level 0/4</title></rect>
+<rect class="cell l0" x="67" y="111" width="10" height="10" rx="2" style="animation:c23 32s linear infinite"><title>2025-11-13: contribution level 0/4</title></rect>
+<rect class="cell l1" x="67" y="127" width="10" height="10" rx="2" style="animation:c22 32s linear infinite"><title>2025-11-14: contribution level 1/4</title></rect>
+<rect class="cell l0" x="67" y="143" width="10" height="10" rx="2" style="animation:c21 32s linear infinite"><title>2025-11-15: contribution level 0/4</title></rect>
+<rect class="cell l0" x="83" y="47" width="10" height="10" rx="2" style="animation:c28 32s linear infinite"><title>2025-11-16: contribution level 0/4</title></rect>
+<rect class="cell l0" x="83" y="63" width="10" height="10" rx="2" style="animation:c29 32s linear infinite"><title>2025-11-17: contribution level 0/4</title></rect>
+<rect class="cell l0" x="83" y="79" width="10" height="10" rx="2" style="animation:c30 32s linear infinite"><title>2025-11-18: contribution level 0/4</title></rect>
+<rect class="cell l0" x="83" y="95" width="10" height="10" rx="2" style="animation:c31 32s linear infinite"><title>2025-11-19: contribution level 0/4</title></rect>
+<rect class="cell l0" x="83" y="111" width="10" height="10" rx="2" style="animation:c32 32s linear infinite"><title>2025-11-20: contribution level 0/4</title></rect>
+<rect class="cell l0" x="83" y="127" width="10" height="10" rx="2" style="animation:c33 32s linear infinite"><title>2025-11-21: contribution level 0/4</title></rect>
+<rect class="cell l0" x="83" y="143" width="10" height="10" rx="2" style="animation:c34 32s linear infinite"><title>2025-11-22: contribution level 0/4</title></rect>
+<rect class="cell l0" x="99" y="47" width="10" height="10" rx="2" style="animation:c41 32s linear infinite"><title>2025-11-23: contribution level 0/4</title></rect>
+<rect class="cell l0" x="99" y="63" width="10" height="10" rx="2" style="animation:c40 32s linear infinite"><title>2025-11-24: contribution level 0/4</title></rect>
+<rect class="cell l0" x="99" y="79" width="10" height="10" rx="2" style="animation:c39 32s linear infinite"><title>2025-11-25: contribution level 0/4</title></rect>
+<rect class="cell l0" x="99" y="95" width="10" height="10" rx="2" style="animation:c38 32s linear infinite"><title>2025-11-26: contribution level 0/4</title></rect>
+<rect class="cell l0" x="99" y="111" width="10" height="10" rx="2" style="animation:c37 32s linear infinite"><title>2025-11-27: contribution level 0/4</title></rect>
+<rect class="cell l0" x="99" y="127" width="10" height="10" rx="2" style="animation:c36 32s linear infinite"><title>2025-11-28: contribution level 0/4</title></rect>
+<rect class="cell l0" x="99" y="143" width="10" height="10" rx="2" style="animation:c35 32s linear infinite"><title>2025-11-29: contribution level 0/4</title></rect>
+<rect class="cell l0" x="115" y="47" width="10" height="10" rx="2" style="animation:c42 32s linear infinite"><title>2025-11-30: contribution level 0/4</title></rect>
+<rect class="cell l0" x="115" y="63" width="10" height="10" rx="2" style="animation:c43 32s linear infinite"><title>2025-12-01: contribution level 0/4</title></rect>
+<rect class="cell l0" x="115" y="79" width="10" height="10" rx="2" style="animation:c44 32s linear infinite"><title>2025-12-02: contribution level 0/4</title></rect>
+<rect class="cell l1" x="115" y="95" width="10" height="10" rx="2" style="animation:c45 32s linear infinite"><title>2025-12-03: contribution level 1/4</title></rect>
+<rect class="cell l1" x="115" y="111" width="10" height="10" rx="2" style="animation:c46 32s linear infinite"><title>2025-12-04: contribution level 1/4</title></rect>
+<rect class="cell l2" x="115" y="127" width="10" height="10" rx="2" style="animation:c47 32s linear infinite"><title>2025-12-05: contribution level 2/4</title></rect>
+<rect class="cell l2" x="115" y="143" width="10" height="10" rx="2" style="animation:c48 32s linear infinite"><title>2025-12-06: contribution level 2/4</title></rect>
+<rect class="cell l2" x="131" y="47" width="10" height="10" rx="2" style="animation:c55 32s linear infinite"><title>2025-12-07: contribution level 2/4</title></rect>
+<rect class="cell l1" x="131" y="63" width="10" height="10" rx="2" style="animation:c54 32s linear infinite"><title>2025-12-08: contribution level 1/4</title></rect>
+<rect class="cell l0" x="131" y="79" width="10" height="10" rx="2" style="animation:c53 32s linear infinite"><title>2025-12-09: contribution level 0/4</title></rect>
+<rect class="cell l1" x="131" y="95" width="10" height="10" rx="2" style="animation:c52 32s linear infinite"><title>2025-12-10: contribution level 1/4</title></rect>
+<rect class="cell l0" x="131" y="111" width="10" height="10" rx="2" style="animation:c51 32s linear infinite"><title>2025-12-11: contribution level 0/4</title></rect>
+<rect class="cell l0" x="131" y="127" width="10" height="10" rx="2" style="animation:c50 32s linear infinite"><title>2025-12-12: contribution level 0/4</title></rect>
+<rect class="cell l0" x="131" y="143" width="10" height="10" rx="2" style="animation:c49 32s linear infinite"><title>2025-12-13: contribution level 0/4</title></rect>
+<rect class="cell l0" x="147" y="47" width="10" height="10" rx="2" style="animation:c56 32s linear infinite"><title>2025-12-14: contribution level 0/4</title></rect>
+<rect class="cell l0" x="147" y="63" width="10" height="10" rx="2" style="animation:c57 32s linear infinite"><title>2025-12-15: contribution level 0/4</title></rect>
+<rect class="cell l0" x="147" y="79" width="10" height="10" rx="2" style="animation:c58 32s linear infinite"><title>2025-12-16: contribution level 0/4</title></rect>
+<rect class="cell l0" x="147" y="95" width="10" height="10" rx="2" style="animation:c59 32s linear infinite"><title>2025-12-17: contribution level 0/4</title></rect>
+<rect class="cell l0" x="147" y="111" width="10" height="10" rx="2" style="animation:c60 32s linear infinite"><title>2025-12-18: contribution level 0/4</title></rect>
+<rect class="cell l0" x="147" y="127" width="10" height="10" rx="2" style="animation:c61 32s linear infinite"><title>2025-12-19: contribution level 0/4</title></rect>
+<rect class="cell l0" x="147" y="143" width="10" height="10" rx="2" style="animation:c62 32s linear infinite"><title>2025-12-20: contribution level 0/4</title></rect>
+<rect class="cell l0" x="163" y="47" width="10" height="10" rx="2" style="animation:c69 32s linear infinite"><title>2025-12-21: contribution level 0/4</title></rect>
+<rect class="cell l0" x="163" y="63" width="10" height="10" rx="2" style="animation:c68 32s linear infinite"><title>2025-12-22: contribution level 0/4</title></rect>
+<rect class="cell l0" x="163" y="79" width="10" height="10" rx="2" style="animation:c67 32s linear infinite"><title>2025-12-23: contribution level 0/4</title></rect>
+<rect class="cell l0" x="163" y="95" width="10" height="10" rx="2" style="animation:c66 32s linear infinite"><title>2025-12-24: contribution level 0/4</title></rect>
+<rect class="cell l0" x="163" y="111" width="10" height="10" rx="2" style="animation:c65 32s linear infinite"><title>2025-12-25: contribution level 0/4</title></rect>
+<rect class="cell l0" x="163" y="127" width="10" height="10" rx="2" style="animation:c64 32s linear infinite"><title>2025-12-26: contribution level 0/4</title></rect>
+<rect class="cell l0" x="163" y="143" width="10" height="10" rx="2" style="animation:c63 32s linear infinite"><title>2025-12-27: contribution level 0/4</title></rect>
+<rect class="cell l0" x="179" y="47" width="10" height="10" rx="2" style="animation:c70 32s linear infinite"><title>2025-12-28: contribution level 0/4</title></rect>
+<rect class="cell l0" x="179" y="63" width="10" height="10" rx="2" style="animation:c71 32s linear infinite"><title>2025-12-29: contribution level 0/4</title></rect>
+<rect class="cell l0" x="179" y="79" width="10" height="10" rx="2" style="animation:c72 32s linear infinite"><title>2025-12-30: contribution level 0/4</title></rect>
+<rect class="cell l0" x="179" y="95" width="10" height="10" rx="2" style="animation:c73 32s linear infinite"><title>2025-12-31: contribution level 0/4</title></rect>
+<rect class="cell l0" x="179" y="111" width="10" height="10" rx="2" style="animation:c74 32s linear infinite"><title>2026-01-01: contribution level 0/4</title></rect>
+<rect class="cell l0" x="179" y="127" width="10" height="10" rx="2" style="animation:c75 32s linear infinite"><title>2026-01-02: contribution level 0/4</title></rect>
+<rect class="cell l0" x="179" y="143" width="10" height="10" rx="2" style="animation:c76 32s linear infinite"><title>2026-01-03: contribution level 0/4</title></rect>
+<rect class="cell l0" x="195" y="47" width="10" height="10" rx="2" style="animation:c83 32s linear infinite"><title>2026-01-04: contribution level 0/4</title></rect>
+<rect class="cell l0" x="195" y="63" width="10" height="10" rx="2" style="animation:c82 32s linear infinite"><title>2026-01-05: contribution level 0/4</title></rect>
+<rect class="cell l0" x="195" y="79" width="10" height="10" rx="2" style="animation:c81 32s linear infinite"><title>2026-01-06: contribution level 0/4</title></rect>
+<rect class="cell l0" x="195" y="95" width="10" height="10" rx="2" style="animation:c80 32s linear infinite"><title>2026-01-07: contribution level 0/4</title></rect>
+<rect class="cell l0" x="195" y="111" width="10" height="10" rx="2" style="animation:c79 32s linear infinite"><title>2026-01-08: contribution level 0/4</title></rect>
+<rect class="cell l0" x="195" y="127" width="10" height="10" rx="2" style="animation:c78 32s linear infinite"><title>2026-01-09: contribution level 0/4</title></rect>
+<rect class="cell l0" x="195" y="143" width="10" height="10" rx="2" style="animation:c77 32s linear infinite"><title>2026-01-10: contribution level 0/4</title></rect>
+<rect class="cell l0" x="211" y="47" width="10" height="10" rx="2" style="animation:c84 32s linear infinite"><title>2026-01-11: contribution level 0/4</title></rect>
+<rect class="cell l0" x="211" y="63" width="10" height="10" rx="2" style="animation:c85 32s linear infinite"><title>2026-01-12: contribution level 0/4</title></rect>
+<rect class="cell l0" x="211" y="79" width="10" height="10" rx="2" style="animation:c86 32s linear infinite"><title>2026-01-13: contribution level 0/4</title></rect>
+<rect class="cell l0" x="211" y="95" width="10" height="10" rx="2" style="animation:c87 32s linear infinite"><title>2026-01-14: contribution level 0/4</title></rect>
+<rect class="cell l0" x="211" y="111" width="10" height="10" rx="2" style="animation:c88 32s linear infinite"><title>2026-01-15: contribution level 0/4</title></rect>
+<rect class="cell l0" x="211" y="127" width="10" height="10" rx="2" style="animation:c89 32s linear infinite"><title>2026-01-16: contribution level 0/4</title></rect>
+<rect class="cell l0" x="211" y="143" width="10" height="10" rx="2" style="animation:c90 32s linear infinite"><title>2026-01-17: contribution level 0/4</title></rect>
+<rect class="cell l1" x="227" y="47" width="10" height="10" rx="2" style="animation:c97 32s linear infinite"><title>2026-01-18: contribution level 1/4</title></rect>
+<rect class="cell l0" x="227" y="63" width="10" height="10" rx="2" style="animation:c96 32s linear infinite"><title>2026-01-19: contribution level 0/4</title></rect>
+<rect class="cell l0" x="227" y="79" width="10" height="10" rx="2" style="animation:c95 32s linear infinite"><title>2026-01-20: contribution level 0/4</title></rect>
+<rect class="cell l0" x="227" y="95" width="10" height="10" rx="2" style="animation:c94 32s linear infinite"><title>2026-01-21: contribution level 0/4</title></rect>
+<rect class="cell l0" x="227" y="111" width="10" height="10" rx="2" style="animation:c93 32s linear infinite"><title>2026-01-22: contribution level 0/4</title></rect>
+<rect class="cell l0" x="227" y="127" width="10" height="10" rx="2" style="animation:c92 32s linear infinite"><title>2026-01-23: contribution level 0/4</title></rect>
+<rect class="cell l0" x="227" y="143" width="10" height="10" rx="2" style="animation:c91 32s linear infinite"><title>2026-01-24: contribution level 0/4</title></rect>
+<rect class="cell l0" x="243" y="47" width="10" height="10" rx="2" style="animation:c98 32s linear infinite"><title>2026-01-25: contribution level 0/4</title></rect>
+<rect class="cell l0" x="243" y="63" width="10" height="10" rx="2" style="animation:c99 32s linear infinite"><title>2026-01-26: contribution level 0/4</title></rect>
+<rect class="cell l0" x="243" y="79" width="10" height="10" rx="2" style="animation:c100 32s linear infinite"><title>2026-01-27: contribution level 0/4</title></rect>
+<rect class="cell l0" x="243" y="95" width="10" height="10" rx="2" style="animation:c101 32s linear infinite"><title>2026-01-28: contribution level 0/4</title></rect>
+<rect class="cell l0" x="243" y="111" width="10" height="10" rx="2" style="animation:c102 32s linear infinite"><title>2026-01-29: contribution level 0/4</title></rect>
+<rect class="cell l0" x="243" y="127" width="10" height="10" rx="2" style="animation:c103 32s linear infinite"><title>2026-01-30: contribution level 0/4</title></rect>
+<rect class="cell l0" x="243" y="143" width="10" height="10" rx="2" style="animation:c104 32s linear infinite"><title>2026-01-31: contribution level 0/4</title></rect>
+<rect class="cell l0" x="259" y="47" width="10" height="10" rx="2" style="animation:c111 32s linear infinite"><title>2026-02-01: contribution level 0/4</title></rect>
+<rect class="cell l0" x="259" y="63" width="10" height="10" rx="2" style="animation:c110 32s linear infinite"><title>2026-02-02: contribution level 0/4</title></rect>
+<rect class="cell l0" x="259" y="79" width="10" height="10" rx="2" style="animation:c109 32s linear infinite"><title>2026-02-03: contribution level 0/4</title></rect>
+<rect class="cell l0" x="259" y="95" width="10" height="10" rx="2" style="animation:c108 32s linear infinite"><title>2026-02-04: contribution level 0/4</title></rect>
+<rect class="cell l0" x="259" y="111" width="10" height="10" rx="2" style="animation:c107 32s linear infinite"><title>2026-02-05: contribution level 0/4</title></rect>
+<rect class="cell l0" x="259" y="127" width="10" height="10" rx="2" style="animation:c106 32s linear infinite"><title>2026-02-06: contribution level 0/4</title></rect>
+<rect class="cell l0" x="259" y="143" width="10" height="10" rx="2" style="animation:c105 32s linear infinite"><title>2026-02-07: contribution level 0/4</title></rect>
+<rect class="cell l0" x="275" y="47" width="10" height="10" rx="2" style="animation:c112 32s linear infinite"><title>2026-02-08: contribution level 0/4</title></rect>
+<rect class="cell l0" x="275" y="63" width="10" height="10" rx="2" style="animation:c113 32s linear infinite"><title>2026-02-09: contribution level 0/4</title></rect>
+<rect class="cell l0" x="275" y="79" width="10" height="10" rx="2" style="animation:c114 32s linear infinite"><title>2026-02-10: contribution level 0/4</title></rect>
+<rect class="cell l0" x="275" y="95" width="10" height="10" rx="2" style="animation:c115 32s linear infinite"><title>2026-02-11: contribution level 0/4</title></rect>
+<rect class="cell l0" x="275" y="111" width="10" height="10" rx="2" style="animation:c116 32s linear infinite"><title>2026-02-12: contribution level 0/4</title></rect>
+<rect class="cell l0" x="275" y="127" width="10" height="10" rx="2" style="animation:c117 32s linear infinite"><title>2026-02-13: contribution level 0/4</title></rect>
+<rect class="cell l0" x="275" y="143" width="10" height="10" rx="2" style="animation:c118 32s linear infinite"><title>2026-02-14: contribution level 0/4</title></rect>
+<rect class="cell l0" x="291" y="47" width="10" height="10" rx="2" style="animation:c125 32s linear infinite"><title>2026-02-15: contribution level 0/4</title></rect>
+<rect class="cell l0" x="291" y="63" width="10" height="10" rx="2" style="animation:c124 32s linear infinite"><title>2026-02-16: contribution level 0/4</title></rect>
+<rect class="cell l0" x="291" y="79" width="10" height="10" rx="2" style="animation:c123 32s linear infinite"><title>2026-02-17: contribution level 0/4</title></rect>
+<rect class="cell l0" x="291" y="95" width="10" height="10" rx="2" style="animation:c122 32s linear infinite"><title>2026-02-18: contribution level 0/4</title></rect>
+<rect class="cell l0" x="291" y="111" width="10" height="10" rx="2" style="animation:c121 32s linear infinite"><title>2026-02-19: contribution level 0/4</title></rect>
+<rect class="cell l0" x="291" y="127" width="10" height="10" rx="2" style="animation:c120 32s linear infinite"><title>2026-02-20: contribution level 0/4</title></rect>
+<rect class="cell l0" x="291" y="143" width="10" height="10" rx="2" style="animation:c119 32s linear infinite"><title>2026-02-21: contribution level 0/4</title></rect>
+<rect class="cell l0" x="307" y="47" width="10" height="10" rx="2" style="animation:c126 32s linear infinite"><title>2026-02-22: contribution level 0/4</title></rect>
+<rect class="cell l0" x="307" y="63" width="10" height="10" rx="2" style="animation:c127 32s linear infinite"><title>2026-02-23: contribution level 0/4</title></rect>
+<rect class="cell l0" x="307" y="79" width="10" height="10" rx="2" style="animation:c128 32s linear infinite"><title>2026-02-24: contribution level 0/4</title></rect>
+<rect class="cell l0" x="307" y="95" width="10" height="10" rx="2" style="animation:c129 32s linear infinite"><title>2026-02-25: contribution level 0/4</title></rect>
+<rect class="cell l0" x="307" y="111" width="10" height="10" rx="2" style="animation:c130 32s linear infinite"><title>2026-02-26: contribution level 0/4</title></rect>
+<rect class="cell l0" x="307" y="127" width="10" height="10" rx="2" style="animation:c131 32s linear infinite"><title>2026-02-27: contribution level 0/4</title></rect>
+<rect class="cell l0" x="307" y="143" width="10" height="10" rx="2" style="animation:c132 32s linear infinite"><title>2026-02-28: contribution level 0/4</title></rect>
+<rect class="cell l1" x="323" y="47" width="10" height="10" rx="2" style="animation:c139 32s linear infinite"><title>2026-03-01: contribution level 1/4</title></rect>
+<rect class="cell l4" x="323" y="63" width="10" height="10" rx="2" style="animation:c138 32s linear infinite"><title>2026-03-02: contribution level 4/4</title></rect>
+<rect class="cell l0" x="323" y="79" width="10" height="10" rx="2" style="animation:c137 32s linear infinite"><title>2026-03-03: contribution level 0/4</title></rect>
+<rect class="cell l2" x="323" y="95" width="10" height="10" rx="2" style="animation:c136 32s linear infinite"><title>2026-03-04: contribution level 2/4</title></rect>
+<rect class="cell l4" x="323" y="111" width="10" height="10" rx="2" style="animation:c135 32s linear infinite"><title>2026-03-05: contribution level 4/4</title></rect>
+<rect class="cell l4" x="323" y="127" width="10" height="10" rx="2" style="animation:c134 32s linear infinite"><title>2026-03-06: contribution level 4/4</title></rect>
+<rect class="cell l3" x="323" y="143" width="10" height="10" rx="2" style="animation:c133 32s linear infinite"><title>2026-03-07: contribution level 3/4</title></rect>
+<rect class="cell l1" x="339" y="47" width="10" height="10" rx="2" style="animation:c140 32s linear infinite"><title>2026-03-08: contribution level 1/4</title></rect>
+<rect class="cell l1" x="339" y="63" width="10" height="10" rx="2" style="animation:c141 32s linear infinite"><title>2026-03-09: contribution level 1/4</title></rect>
+<rect class="cell l1" x="339" y="79" width="10" height="10" rx="2" style="animation:c142 32s linear infinite"><title>2026-03-10: contribution level 1/4</title></rect>
+<rect class="cell l0" x="339" y="95" width="10" height="10" rx="2" style="animation:c143 32s linear infinite"><title>2026-03-11: contribution level 0/4</title></rect>
+<rect class="cell l1" x="339" y="111" width="10" height="10" rx="2" style="animation:c144 32s linear infinite"><title>2026-03-12: contribution level 1/4</title></rect>
+<rect class="cell l1" x="339" y="127" width="10" height="10" rx="2" style="animation:c145 32s linear infinite"><title>2026-03-13: contribution level 1/4</title></rect>
+<rect class="cell l0" x="339" y="143" width="10" height="10" rx="2" style="animation:c146 32s linear infinite"><title>2026-03-14: contribution level 0/4</title></rect>
+<rect class="cell l0" x="355" y="47" width="10" height="10" rx="2" style="animation:c153 32s linear infinite"><title>2026-03-15: contribution level 0/4</title></rect>
+<rect class="cell l0" x="355" y="63" width="10" height="10" rx="2" style="animation:c152 32s linear infinite"><title>2026-03-16: contribution level 0/4</title></rect>
+<rect class="cell l0" x="355" y="79" width="10" height="10" rx="2" style="animation:c151 32s linear infinite"><title>2026-03-17: contribution level 0/4</title></rect>
+<rect class="cell l1" x="355" y="95" width="10" height="10" rx="2" style="animation:c150 32s linear infinite"><title>2026-03-18: contribution level 1/4</title></rect>
+<rect class="cell l1" x="355" y="111" width="10" height="10" rx="2" style="animation:c149 32s linear infinite"><title>2026-03-19: contribution level 1/4</title></rect>
+<rect class="cell l0" x="355" y="127" width="10" height="10" rx="2" style="animation:c148 32s linear infinite"><title>2026-03-20: contribution level 0/4</title></rect>
+<rect class="cell l0" x="355" y="143" width="10" height="10" rx="2" style="animation:c147 32s linear infinite"><title>2026-03-21: contribution level 0/4</title></rect>
+<rect class="cell l0" x="371" y="47" width="10" height="10" rx="2" style="animation:c154 32s linear infinite"><title>2026-03-22: contribution level 0/4</title></rect>
+<rect class="cell l1" x="371" y="63" width="10" height="10" rx="2" style="animation:c155 32s linear infinite"><title>2026-03-23: contribution level 1/4</title></rect>
+<rect class="cell l0" x="371" y="79" width="10" height="10" rx="2" style="animation:c156 32s linear infinite"><title>2026-03-24: contribution level 0/4</title></rect>
+<rect class="cell l0" x="371" y="95" width="10" height="10" rx="2" style="animation:c157 32s linear infinite"><title>2026-03-25: contribution level 0/4</title></rect>
+<rect class="cell l0" x="371" y="111" width="10" height="10" rx="2" style="animation:c158 32s linear infinite"><title>2026-03-26: contribution level 0/4</title></rect>
+<rect class="cell l0" x="371" y="127" width="10" height="10" rx="2" style="animation:c159 32s linear infinite"><title>2026-03-27: contribution level 0/4</title></rect>
+<rect class="cell l0" x="371" y="143" width="10" height="10" rx="2" style="animation:c160 32s linear infinite"><title>2026-03-28: contribution level 0/4</title></rect>
+<rect class="cell l1" x="387" y="47" width="10" height="10" rx="2" style="animation:c167 32s linear infinite"><title>2026-03-29: contribution level 1/4</title></rect>
+<rect class="cell l1" x="387" y="63" width="10" height="10" rx="2" style="animation:c166 32s linear infinite"><title>2026-03-30: contribution level 1/4</title></rect>
+<rect class="cell l1" x="387" y="79" width="10" height="10" rx="2" style="animation:c165 32s linear infinite"><title>2026-03-31: contribution level 1/4</title></rect>
+<rect class="cell l1" x="387" y="95" width="10" height="10" rx="2" style="animation:c164 32s linear infinite"><title>2026-04-01: contribution level 1/4</title></rect>
+<rect class="cell l1" x="387" y="111" width="10" height="10" rx="2" style="animation:c163 32s linear infinite"><title>2026-04-02: contribution level 1/4</title></rect>
+<rect class="cell l1" x="387" y="127" width="10" height="10" rx="2" style="animation:c162 32s linear infinite"><title>2026-04-03: contribution level 1/4</title></rect>
+<rect class="cell l0" x="387" y="143" width="10" height="10" rx="2" style="animation:c161 32s linear infinite"><title>2026-04-04: contribution level 0/4</title></rect>
+<rect class="cell l1" x="403" y="47" width="10" height="10" rx="2" style="animation:c168 32s linear infinite"><title>2026-04-05: contribution level 1/4</title></rect>
+<rect class="cell l0" x="403" y="63" width="10" height="10" rx="2" style="animation:c169 32s linear infinite"><title>2026-04-06: contribution level 0/4</title></rect>
+<rect class="cell l0" x="403" y="79" width="10" height="10" rx="2" style="animation:c170 32s linear infinite"><title>2026-04-07: contribution level 0/4</title></rect>
+<rect class="cell l0" x="403" y="95" width="10" height="10" rx="2" style="animation:c171 32s linear infinite"><title>2026-04-08: contribution level 0/4</title></rect>
+<rect class="cell l0" x="403" y="111" width="10" height="10" rx="2" style="animation:c172 32s linear infinite"><title>2026-04-09: contribution level 0/4</title></rect>
+<rect class="cell l1" x="403" y="127" width="10" height="10" rx="2" style="animation:c173 32s linear infinite"><title>2026-04-10: contribution level 1/4</title></rect>
+<rect class="cell l1" x="403" y="143" width="10" height="10" rx="2" style="animation:c174 32s linear infinite"><title>2026-04-11: contribution level 1/4</title></rect>
+<rect class="cell l0" x="419" y="47" width="10" height="10" rx="2" style="animation:c181 32s linear infinite"><title>2026-04-12: contribution level 0/4</title></rect>
+<rect class="cell l0" x="419" y="63" width="10" height="10" rx="2" style="animation:c180 32s linear infinite"><title>2026-04-13: contribution level 0/4</title></rect>
+<rect class="cell l0" x="419" y="79" width="10" height="10" rx="2" style="animation:c179 32s linear infinite"><title>2026-04-14: contribution level 0/4</title></rect>
+<rect class="cell l0" x="419" y="95" width="10" height="10" rx="2" style="animation:c178 32s linear infinite"><title>2026-04-15: contribution level 0/4</title></rect>
+<rect class="cell l0" x="419" y="111" width="10" height="10" rx="2" style="animation:c177 32s linear infinite"><title>2026-04-16: contribution level 0/4</title></rect>
+<rect class="cell l0" x="419" y="127" width="10" height="10" rx="2" style="animation:c176 32s linear infinite"><title>2026-04-17: contribution level 0/4</title></rect>
+<rect class="cell l0" x="419" y="143" width="10" height="10" rx="2" style="animation:c175 32s linear infinite"><title>2026-04-18: contribution level 0/4</title></rect>
+<rect class="cell l0" x="435" y="47" width="10" height="10" rx="2" style="animation:c182 32s linear infinite"><title>2026-04-19: contribution level 0/4</title></rect>
+<rect class="cell l0" x="435" y="63" width="10" height="10" rx="2" style="animation:c183 32s linear infinite"><title>2026-04-20: contribution level 0/4</title></rect>
+<rect class="cell l0" x="435" y="79" width="10" height="10" rx="2" style="animation:c184 32s linear infinite"><title>2026-04-21: contribution level 0/4</title></rect>
+<rect class="cell l0" x="435" y="95" width="10" height="10" rx="2" style="animation:c185 32s linear infinite"><title>2026-04-22: contribution level 0/4</title></rect>
+<rect class="cell l0" x="435" y="111" width="10" height="10" rx="2" style="animation:c186 32s linear infinite"><title>2026-04-23: contribution level 0/4</title></rect>
+<rect class="cell l0" x="435" y="127" width="10" height="10" rx="2" style="animation:c187 32s linear infinite"><title>2026-04-24: contribution level 0/4</title></rect>
+<rect class="cell l2" x="435" y="143" width="10" height="10" rx="2" style="animation:c188 32s linear infinite"><title>2026-04-25: contribution level 2/4</title></rect>
+<rect class="cell l0" x="451" y="47" width="10" height="10" rx="2" style="animation:c195 32s linear infinite"><title>2026-04-26: contribution level 0/4</title></rect>
+<rect class="cell l0" x="451" y="63" width="10" height="10" rx="2" style="animation:c194 32s linear infinite"><title>2026-04-27: contribution level 0/4</title></rect>
+<rect class="cell l0" x="451" y="79" width="10" height="10" rx="2" style="animation:c193 32s linear infinite"><title>2026-04-28: contribution level 0/4</title></rect>
+<rect class="cell l0" x="451" y="95" width="10" height="10" rx="2" style="animation:c192 32s linear infinite"><title>2026-04-29: contribution level 0/4</title></rect>
+<rect class="cell l0" x="451" y="111" width="10" height="10" rx="2" style="animation:c191 32s linear infinite"><title>2026-04-30: contribution level 0/4</title></rect>
+<rect class="cell l0" x="451" y="127" width="10" height="10" rx="2" style="animation:c190 32s linear infinite"><title>2026-05-01: contribution level 0/4</title></rect>
+<rect class="cell l1" x="451" y="143" width="10" height="10" rx="2" style="animation:c189 32s linear infinite"><title>2026-05-02: contribution level 1/4</title></rect>
+<rect class="cell l1" x="467" y="47" width="10" height="10" rx="2" style="animation:c196 32s linear infinite"><title>2026-05-03: contribution level 1/4</title></rect>
+<rect class="cell l1" x="467" y="63" width="10" height="10" rx="2" style="animation:c197 32s linear infinite"><title>2026-05-04: contribution level 1/4</title></rect>
+<rect class="cell l0" x="467" y="79" width="10" height="10" rx="2" style="animation:c198 32s linear infinite"><title>2026-05-05: contribution level 0/4</title></rect>
+<rect class="cell l0" x="467" y="95" width="10" height="10" rx="2" style="animation:c199 32s linear infinite"><title>2026-05-06: contribution level 0/4</title></rect>
+<rect class="cell l1" x="467" y="111" width="10" height="10" rx="2" style="animation:c200 32s linear infinite"><title>2026-05-07: contribution level 1/4</title></rect>
+<rect class="cell l1" x="467" y="127" width="10" height="10" rx="2" style="animation:c201 32s linear infinite"><title>2026-05-08: contribution level 1/4</title></rect>
+<rect class="cell l2" x="467" y="143" width="10" height="10" rx="2" style="animation:c202 32s linear infinite"><title>2026-05-09: contribution level 2/4</title></rect>
+<rect class="cell l0" x="483" y="47" width="10" height="10" rx="2" style="animation:c209 32s linear infinite"><title>2026-05-10: contribution level 0/4</title></rect>
+<rect class="cell l0" x="483" y="63" width="10" height="10" rx="2" style="animation:c208 32s linear infinite"><title>2026-05-11: contribution level 0/4</title></rect>
+<rect class="cell l1" x="483" y="79" width="10" height="10" rx="2" style="animation:c207 32s linear infinite"><title>2026-05-12: contribution level 1/4</title></rect>
+<rect class="cell l0" x="483" y="95" width="10" height="10" rx="2" style="animation:c206 32s linear infinite"><title>2026-05-13: contribution level 0/4</title></rect>
+<rect class="cell l0" x="483" y="111" width="10" height="10" rx="2" style="animation:c205 32s linear infinite"><title>2026-05-14: contribution level 0/4</title></rect>
+<rect class="cell l1" x="483" y="127" width="10" height="10" rx="2" style="animation:c204 32s linear infinite"><title>2026-05-15: contribution level 1/4</title></rect>
+<rect class="cell l1" x="483" y="143" width="10" height="10" rx="2" style="animation:c203 32s linear infinite"><title>2026-05-16: contribution level 1/4</title></rect>
+<rect class="cell l1" x="499" y="47" width="10" height="10" rx="2" style="animation:c210 32s linear infinite"><title>2026-05-17: contribution level 1/4</title></rect>
+<rect class="cell l1" x="499" y="63" width="10" height="10" rx="2" style="animation:c211 32s linear infinite"><title>2026-05-18: contribution level 1/4</title></rect>
+<rect class="cell l1" x="499" y="79" width="10" height="10" rx="2" style="animation:c212 32s linear infinite"><title>2026-05-19: contribution level 1/4</title></rect>
+<rect class="cell l0" x="499" y="95" width="10" height="10" rx="2" style="animation:c213 32s linear infinite"><title>2026-05-20: contribution level 0/4</title></rect>
+<rect class="cell l1" x="499" y="111" width="10" height="10" rx="2" style="animation:c214 32s linear infinite"><title>2026-05-21: contribution level 1/4</title></rect>
+<rect class="cell l0" x="499" y="127" width="10" height="10" rx="2" style="animation:c215 32s linear infinite"><title>2026-05-22: contribution level 0/4</title></rect>
+<rect class="cell l0" x="499" y="143" width="10" height="10" rx="2" style="animation:c216 32s linear infinite"><title>2026-05-23: contribution level 0/4</title></rect>
+<rect class="cell l0" x="515" y="47" width="10" height="10" rx="2" style="animation:c223 32s linear infinite"><title>2026-05-24: contribution level 0/4</title></rect>
+<rect class="cell l0" x="515" y="63" width="10" height="10" rx="2" style="animation:c222 32s linear infinite"><title>2026-05-25: contribution level 0/4</title></rect>
+<rect class="cell l0" x="515" y="79" width="10" height="10" rx="2" style="animation:c221 32s linear infinite"><title>2026-05-26: contribution level 0/4</title></rect>
+<rect class="cell l0" x="515" y="95" width="10" height="10" rx="2" style="animation:c220 32s linear infinite"><title>2026-05-27: contribution level 0/4</title></rect>
+<rect class="cell l0" x="515" y="111" width="10" height="10" rx="2" style="animation:c219 32s linear infinite"><title>2026-05-28: contribution level 0/4</title></rect>
+<rect class="cell l0" x="515" y="127" width="10" height="10" rx="2" style="animation:c218 32s linear infinite"><title>2026-05-29: contribution level 0/4</title></rect>
+<rect class="cell l0" x="515" y="143" width="10" height="10" rx="2" style="animation:c217 32s linear infinite"><title>2026-05-30: contribution level 0/4</title></rect>
+<rect class="cell l0" x="531" y="47" width="10" height="10" rx="2" style="animation:c224 32s linear infinite"><title>2026-05-31: contribution level 0/4</title></rect>
+<rect class="cell l0" x="531" y="63" width="10" height="10" rx="2" style="animation:c225 32s linear infinite"><title>2026-06-01: contribution level 0/4</title></rect>
+<rect class="cell l0" x="531" y="79" width="10" height="10" rx="2" style="animation:c226 32s linear infinite"><title>2026-06-02: contribution level 0/4</title></rect>
+<rect class="cell l0" x="531" y="95" width="10" height="10" rx="2" style="animation:c227 32s linear infinite"><title>2026-06-03: contribution level 0/4</title></rect>
+<rect class="cell l0" x="531" y="111" width="10" height="10" rx="2" style="animation:c228 32s linear infinite"><title>2026-06-04: contribution level 0/4</title></rect>
+<rect class="cell l0" x="531" y="127" width="10" height="10" rx="2" style="animation:c229 32s linear infinite"><title>2026-06-05: contribution level 0/4</title></rect>
+<rect class="cell l0" x="531" y="143" width="10" height="10" rx="2" style="animation:c230 32s linear infinite"><title>2026-06-06: contribution level 0/4</title></rect>
+<rect class="cell l0" x="547" y="47" width="10" height="10" rx="2" style="animation:c237 32s linear infinite"><title>2026-06-07: contribution level 0/4</title></rect>
+<rect class="cell l0" x="547" y="63" width="10" height="10" rx="2" style="animation:c236 32s linear infinite"><title>2026-06-08: contribution level 0/4</title></rect>
+<rect class="cell l0" x="547" y="79" width="10" height="10" rx="2" style="animation:c235 32s linear infinite"><title>2026-06-09: contribution level 0/4</title></rect>
+<rect class="cell l0" x="547" y="95" width="10" height="10" rx="2" style="animation:c234 32s linear infinite"><title>2026-06-10: contribution level 0/4</title></rect>
+<rect class="cell l0" x="547" y="111" width="10" height="10" rx="2" style="animation:c233 32s linear infinite"><title>2026-06-11: contribution level 0/4</title></rect>
+<rect class="cell l0" x="547" y="127" width="10" height="10" rx="2" style="animation:c232 32s linear infinite"><title>2026-06-12: contribution level 0/4</title></rect>
+<rect class="cell l0" x="547" y="143" width="10" height="10" rx="2" style="animation:c231 32s linear infinite"><title>2026-06-13: contribution level 0/4</title></rect>
+<rect class="cell l0" x="563" y="47" width="10" height="10" rx="2" style="animation:c238 32s linear infinite"><title>2026-06-14: contribution level 0/4</title></rect>
+<rect class="cell l0" x="563" y="63" width="10" height="10" rx="2" style="animation:c239 32s linear infinite"><title>2026-06-15: contribution level 0/4</title></rect>
+<rect class="cell l0" x="563" y="79" width="10" height="10" rx="2" style="animation:c240 32s linear infinite"><title>2026-06-16: contribution level 0/4</title></rect>
+<rect class="cell l0" x="563" y="95" width="10" height="10" rx="2" style="animation:c241 32s linear infinite"><title>2026-06-17: contribution level 0/4</title></rect>
+<rect class="cell l0" x="563" y="111" width="10" height="10" rx="2" style="animation:c242 32s linear infinite"><title>2026-06-18: contribution level 0/4</title></rect>
+<rect class="cell l0" x="563" y="127" width="10" height="10" rx="2" style="animation:c243 32s linear infinite"><title>2026-06-19: contribution level 0/4</title></rect>
+<rect class="cell l1" x="563" y="143" width="10" height="10" rx="2" style="animation:c244 32s linear infinite"><title>2026-06-20: contribution level 1/4</title></rect>
+<rect class="cell l0" x="579" y="47" width="10" height="10" rx="2" style="animation:c251 32s linear infinite"><title>2026-06-21: contribution level 0/4</title></rect>
+<rect class="cell l0" x="579" y="63" width="10" height="10" rx="2" style="animation:c250 32s linear infinite"><title>2026-06-22: contribution level 0/4</title></rect>
+<rect class="cell l0" x="579" y="79" width="10" height="10" rx="2" style="animation:c249 32s linear infinite"><title>2026-06-23: contribution level 0/4</title></rect>
+<rect class="cell l0" x="579" y="95" width="10" height="10" rx="2" style="animation:c248 32s linear infinite"><title>2026-06-24: contribution level 0/4</title></rect>
+<rect class="cell l0" x="579" y="111" width="10" height="10" rx="2" style="animation:c247 32s linear infinite"><title>2026-06-25: contribution level 0/4</title></rect>
+<rect class="cell l0" x="579" y="127" width="10" height="10" rx="2" style="animation:c246 32s linear infinite"><title>2026-06-26: contribution level 0/4</title></rect>
+<rect class="cell l0" x="579" y="143" width="10" height="10" rx="2" style="animation:c245 32s linear infinite"><title>2026-06-27: contribution level 0/4</title></rect>
+<rect class="cell l0" x="595" y="47" width="10" height="10" rx="2" style="animation:c252 32s linear infinite"><title>2026-06-28: contribution level 0/4</title></rect>
+<rect class="cell l0" x="595" y="63" width="10" height="10" rx="2" style="animation:c253 32s linear infinite"><title>2026-06-29: contribution level 0/4</title></rect>
+<rect class="cell l0" x="595" y="79" width="10" height="10" rx="2" style="animation:c254 32s linear infinite"><title>2026-06-30: contribution level 0/4</title></rect>
+<rect class="cell l0" x="595" y="95" width="10" height="10" rx="2" style="animation:c255 32s linear infinite"><title>2026-07-01: contribution level 0/4</title></rect>
+<rect class="cell l0" x="595" y="111" width="10" height="10" rx="2" style="animation:c256 32s linear infinite"><title>2026-07-02: contribution level 0/4</title></rect>
+<rect class="cell l0" x="595" y="127" width="10" height="10" rx="2" style="animation:c257 32s linear infinite"><title>2026-07-03: contribution level 0/4</title></rect>
+<rect class="cell l0" x="595" y="143" width="10" height="10" rx="2" style="animation:c258 32s linear infinite"><title>2026-07-04: contribution level 0/4</title></rect>
+<rect class="cell l0" x="611" y="47" width="10" height="10" rx="2" style="animation:c265 32s linear infinite"><title>2026-07-05: contribution level 0/4</title></rect>
+<rect class="cell l0" x="611" y="63" width="10" height="10" rx="2" style="animation:c264 32s linear infinite"><title>2026-07-06: contribution level 0/4</title></rect>
+<rect class="cell l0" x="611" y="79" width="10" height="10" rx="2" style="animation:c263 32s linear infinite"><title>2026-07-07: contribution level 0/4</title></rect>
+<rect class="cell l1" x="611" y="95" width="10" height="10" rx="2" style="animation:c262 32s linear infinite"><title>2026-07-08: contribution level 1/4</title></rect>
+<rect class="cell l0" x="611" y="111" width="10" height="10" rx="2" style="animation:c261 32s linear infinite"><title>2026-07-09: contribution level 0/4</title></rect>
+<rect class="cell l0" x="611" y="127" width="10" height="10" rx="2" style="animation:c260 32s linear infinite"><title>2026-07-10: contribution level 0/4</title></rect>
+<rect class="cell l0" x="611" y="143" width="10" height="10" rx="2" style="animation:c259 32s linear infinite"><title>2026-07-11: contribution level 0/4</title></rect>
+<rect class="cell l1" x="627" y="47" width="10" height="10" rx="2" style="animation:c266 32s linear infinite"><title>2026-07-12: contribution level 1/4</title></rect>
+<rect class="cell l0" x="627" y="63" width="10" height="10" rx="2" style="animation:c267 32s linear infinite"><title>2026-07-13: contribution level 0/4</title></rect>
+<rect class="cell l0" x="627" y="79" width="10" height="10" rx="2" style="animation:c268 32s linear infinite"><title>2026-07-14: contribution level 0/4</title></rect>
+<rect class="cell l0" x="627" y="95" width="10" height="10" rx="2" style="animation:c269 32s linear infinite"><title>2026-07-15: contribution level 0/4</title></rect>
+<rect class="cell l0" x="627" y="111" width="10" height="10" rx="2" style="animation:c270 32s linear infinite"><title>2026-07-16: contribution level 0/4</title></rect>
+<rect class="cell l0" x="627" y="127" width="10" height="10" rx="2" style="animation:c271 32s linear infinite"><title>2026-07-17: contribution level 0/4</title></rect>
+<rect class="cell l0" x="627" y="143" width="10" height="10" rx="2" style="animation:c272 32s linear infinite"><title>2026-07-18: contribution level 0/4</title></rect>
+<rect class="cell l0" x="643" y="47" width="10" height="10" rx="2" style="animation:c279 32s linear infinite"><title>2026-07-19: contribution level 0/4</title></rect>
+<rect class="cell l0" x="643" y="63" width="10" height="10" rx="2" style="animation:c278 32s linear infinite"><title>2026-07-20: contribution level 0/4</title></rect>
+<rect class="cell l0" x="643" y="79" width="10" height="10" rx="2" style="animation:c277 32s linear infinite"><title>2026-07-21: contribution level 0/4</title></rect>
+<rect class="cell l0" x="643" y="95" width="10" height="10" rx="2" style="animation:c276 32s linear infinite"><title>2026-07-22: contribution level 0/4</title></rect>
+<rect class="cell l0" x="643" y="111" width="10" height="10" rx="2" style="animation:c275 32s linear infinite"><title>2026-07-23: contribution level 0/4</title></rect>
+<rect class="cell l0" x="643" y="127" width="10" height="10" rx="2" style="animation:c274 32s linear infinite"><title>2026-07-24: contribution level 0/4</title></rect>
+<rect class="cell l0" x="643" y="143" width="10" height="10" rx="2" style="animation:c273 32s linear infinite"><title>2026-07-25: contribution level 0/4</title></rect>
+<rect class="cell l0" x="659" y="47" width="10" height="10" rx="2" style="animation:c280 32s linear infinite"><title>2026-07-26: contribution level 0/4</title></rect>
+<rect class="cell l1" x="659" y="63" width="10" height="10" rx="2" style="animation:c281 32s linear infinite"><title>2026-07-27: contribution level 1/4</title></rect>
+<rect class="cell l0" x="659" y="79" width="10" height="10" rx="2" style="animation:c282 32s linear infinite"><title>2026-07-28: contribution level 0/4</title></rect>
+<rect class="cell l0" x="659" y="95" width="10" height="10" rx="2" style="animation:c283 32s linear infinite"><title>2026-07-29: contribution level 0/4</title></rect>
+<rect class="cell l1" x="659" y="111" width="10" height="10" rx="2" style="animation:c284 32s linear infinite"><title>2026-07-30: contribution level 1/4</title></rect>
+<rect class="cell l0" x="659" y="127" width="10" height="10" rx="2" style="animation:c285 32s linear infinite"><title>2026-07-31: contribution level 0/4</title></rect>
+<rect class="cell l0" x="659" y="143" width="10" height="10" rx="2" style="animation:c286 32s linear infinite"><title>2026-08-01: contribution level 0/4</title></rect>
+<rect class="cell l0" x="675" y="47" width="10" height="10" rx="2" style="animation:c293 32s linear infinite"><title>2026-08-02: contribution level 0/4</title></rect>
+<rect class="cell l0" x="675" y="63" width="10" height="10" rx="2" style="animation:c292 32s linear infinite"><title>2026-08-03: contribution level 0/4</title></rect>
+<rect class="cell l1" x="675" y="79" width="10" height="10" rx="2" style="animation:c291 32s linear infinite"><title>2026-08-04: contribution level 1/4</title></rect>
+<rect class="cell l1" x="675" y="95" width="10" height="10" rx="2" style="animation:c290 32s linear infinite"><title>2026-08-05: contribution level 1/4</title></rect>
+<rect class="cell l0" x="675" y="111" width="10" height="10" rx="2" style="animation:c289 32s linear infinite"><title>2026-08-06: contribution level 0/4</title></rect>
+<rect class="cell l0" x="675" y="127" width="10" height="10" rx="2" style="animation:c288 32s linear infinite"><title>2026-08-07: contribution level 0/4</title></rect>
+<rect class="cell l0" x="675" y="143" width="10" height="10" rx="2" style="animation:c287 32s linear infinite"><title>2026-08-08: contribution level 0/4</title></rect>
+<rect class="cell l0" x="691" y="47" width="10" height="10" rx="2" style="animation:c294 32s linear infinite"><title>2026-08-09: contribution level 0/4</title></rect>
+<rect class="cell l0" x="691" y="63" width="10" height="10" rx="2" style="animation:c295 32s linear infinite"><title>2026-08-10: contribution level 0/4</title></rect>
+<rect class="cell l0" x="691" y="79" width="10" height="10" rx="2" style="animation:c296 32s linear infinite"><title>2026-08-11: contribution level 0/4</title></rect>
+<rect class="cell l0" x="691" y="95" width="10" height="10" rx="2" style="animation:c297 32s linear infinite"><title>2026-08-12: contribution level 0/4</title></rect>
+<rect class="cell l0" x="691" y="111" width="10" height="10" rx="2" style="animation:c298 32s linear infinite"><title>2026-08-13: contribution level 0/4</title></rect>
+<rect class="cell l0" x="691" y="127" width="10" height="10" rx="2" style="animation:c299 32s linear infinite"><title>2026-08-14: contribution level 0/4</title></rect>
+<rect class="cell l0" x="691" y="143" width="10" height="10" rx="2" style="animation:c300 32s linear infinite"><title>2026-08-15: contribution level 0/4</title></rect>
+<rect class="cell l0" x="707" y="47" width="10" height="10" rx="2" style="animation:c307 32s linear infinite"><title>2026-08-16: contribution level 0/4</title></rect>
+<rect class="cell l0" x="707" y="63" width="10" height="10" rx="2" style="animation:c306 32s linear infinite"><title>2026-08-17: contribution level 0/4</title></rect>
+<rect class="cell l0" x="707" y="79" width="10" height="10" rx="2" style="animation:c305 32s linear infinite"><title>2026-08-18: contribution level 0/4</title></rect>
+<rect class="cell l0" x="707" y="95" width="10" height="10" rx="2" style="animation:c304 32s linear infinite"><title>2026-08-19: contribution level 0/4</title></rect>
+<rect class="cell l0" x="707" y="111" width="10" height="10" rx="2" style="animation:c303 32s linear infinite"><title>2026-08-20: contribution level 0/4</title></rect>
+<rect class="cell l0" x="707" y="127" width="10" height="10" rx="2" style="animation:c302 32s linear infinite"><title>2026-08-21: contribution level 0/4</title></rect>
+<rect class="cell l0" x="707" y="143" width="10" height="10" rx="2" style="animation:c301 32s linear infinite"><title>2026-08-22: contribution level 0/4</title></rect>
+<rect class="cell l0" x="723" y="47" width="10" height="10" rx="2" style="animation:c308 32s linear infinite"><title>2026-08-23: contribution level 0/4</title></rect>
+<rect class="cell l0" x="723" y="63" width="10" height="10" rx="2" style="animation:c309 32s linear infinite"><title>2026-08-24: contribution level 0/4</title></rect>
+<rect class="cell l1" x="723" y="79" width="10" height="10" rx="2" style="animation:c310 32s linear infinite"><title>2026-08-25: contribution level 1/4</title></rect>
+<rect class="cell l0" x="723" y="95" width="10" height="10" rx="2" style="animation:c311 32s linear infinite"><title>2026-08-26: contribution level 0/4</title></rect>
+<rect class="cell l0" x="723" y="111" width="10" height="10" rx="2" style="animation:c312 32s linear infinite"><title>2026-08-27: contribution level 0/4</title></rect>
+<rect class="cell l2" x="723" y="127" width="10" height="10" rx="2" style="animation:c313 32s linear infinite"><title>2026-08-28: contribution level 2/4</title></rect>
+<rect class="cell l0" x="723" y="143" width="10" height="10" rx="2" style="animation:c314 32s linear infinite"><title>2026-08-29: contribution level 0/4</title></rect>
+<rect class="cell l0" x="739" y="47" width="10" height="10" rx="2" style="animation:c321 32s linear infinite"><title>2026-08-30: contribution level 0/4</title></rect>
+<rect class="cell l1" x="739" y="63" width="10" height="10" rx="2" style="animation:c320 32s linear infinite"><title>2026-08-31: contribution level 1/4</title></rect>
+<rect class="cell l0" x="739" y="79" width="10" height="10" rx="2" style="animation:c319 32s linear infinite"><title>2026-09-01: contribution level 0/4</title></rect>
+<rect class="cell l0" x="739" y="95" width="10" height="10" rx="2" style="animation:c318 32s linear infinite"><title>2026-09-02: contribution level 0/4</title></rect>
+<rect class="cell l0" x="739" y="111" width="10" height="10" rx="2" style="animation:c317 32s linear infinite"><title>2026-09-03: contribution level 0/4</title></rect>
+<rect class="cell l0" x="739" y="127" width="10" height="10" rx="2" style="animation:c316 32s linear infinite"><title>2026-09-04: contribution level 0/4</title></rect>
+<rect class="cell l0" x="739" y="143" width="10" height="10" rx="2" style="animation:c315 32s linear infinite"><title>2026-09-05: contribution level 0/4</title></rect>
+<rect class="cell l0" x="755" y="47" width="10" height="10" rx="2" style="animation:c322 32s linear infinite"><title>2026-09-06: contribution level 0/4</title></rect>
+<rect class="cell l0" x="755" y="63" width="10" height="10" rx="2" style="animation:c323 32s linear infinite"><title>2026-09-07: contribution level 0/4</title></rect>
+<rect class="cell l0" x="755" y="79" width="10" height="10" rx="2" style="animation:c324 32s linear infinite"><title>2026-09-08: contribution level 0/4</title></rect>
+<rect class="cell l0" x="755" y="95" width="10" height="10" rx="2" style="animation:c325 32s linear infinite"><title>2026-09-09: contribution level 0/4</title></rect>
+<rect class="cell l0" x="755" y="111" width="10" height="10" rx="2" style="animation:c326 32s linear infinite"><title>2026-09-10: contribution level 0/4</title></rect>
+<rect class="cell l0" x="755" y="127" width="10" height="10" rx="2" style="animation:c327 32s linear infinite"><title>2026-09-11: contribution level 0/4</title></rect>
+<rect class="cell l0" x="755" y="143" width="10" height="10" rx="2" style="animation:c328 32s linear infinite"><title>2026-09-12: contribution level 0/4</title></rect>
+<rect class="cell l0" x="771" y="47" width="10" height="10" rx="2" style="animation:c335 32s linear infinite"><title>2026-09-13: contribution level 0/4</title></rect>
+<rect class="cell l0" x="771" y="63" width="10" height="10" rx="2" style="animation:c334 32s linear infinite"><title>2026-09-14: contribution level 0/4</title></rect>
+<rect class="cell l2" x="771" y="79" width="10" height="10" rx="2" style="animation:c333 32s linear infinite"><title>2026-09-15: contribution level 2/4</title></rect>
+<rect class="cell l3" x="771" y="95" width="10" height="10" rx="2" style="animation:c332 32s linear infinite"><title>2026-09-16: contribution level 3/4</title></rect>
+<rect class="cell l0" x="771" y="111" width="10" height="10" rx="2" style="animation:c331 32s linear infinite"><title>2026-09-17: contribution level 0/4</title></rect>
+<rect class="cell l0" x="771" y="127" width="10" height="10" rx="2" style="animation:c330 32s linear infinite"><title>2026-09-18: contribution level 0/4</title></rect>
+<rect class="cell l0" x="771" y="143" width="10" height="10" rx="2" style="animation:c329 32s linear infinite"><title>2026-09-19: contribution level 0/4</title></rect>
+<rect class="cell l0" x="787" y="47" width="10" height="10" rx="2" style="animation:c336 32s linear infinite"><title>2026-09-20: contribution level 0/4</title></rect>
+<rect class="cell l0" x="787" y="63" width="10" height="10" rx="2" style="animation:c337 32s linear infinite"><title>2026-09-21: contribution level 0/4</title></rect>
+<rect class="cell l1" x="787" y="79" width="10" height="10" rx="2" style="animation:c338 32s linear infinite"><title>2026-09-22: contribution level 1/4</title></rect>
+<rect class="cell l1" x="787" y="95" width="10" height="10" rx="2" style="animation:c339 32s linear infinite"><title>2026-09-23: contribution level 1/4</title></rect>
+<rect class="cell l0" x="787" y="111" width="10" height="10" rx="2" style="animation:c340 32s linear infinite"><title>2026-09-24: contribution level 0/4</title></rect>
+<rect class="cell l0" x="787" y="127" width="10" height="10" rx="2" style="animation:c341 32s linear infinite"><title>2026-09-25: contribution level 0/4</title></rect>
+<rect class="cell l2" x="787" y="143" width="10" height="10" rx="2" style="animation:c342 32s linear infinite"><title>2026-09-26: contribution level 2/4</title></rect>
+<rect class="cell l1" x="803" y="47" width="10" height="10" rx="2" style="animation:c349 32s linear infinite"><title>2026-09-27: contribution level 1/4</title></rect>
+<rect class="cell l0" x="803" y="63" width="10" height="10" rx="2" style="animation:c348 32s linear infinite"><title>2026-09-28: contribution level 0/4</title></rect>
+<rect class="cell l1" x="803" y="79" width="10" height="10" rx="2" style="animation:c347 32s linear infinite"><title>2026-09-29: contribution level 1/4</title></rect>
+<rect class="cell l1" x="803" y="95" width="10" height="10" rx="2" style="animation:c346 32s linear infinite"><title>2026-09-30: contribution level 1/4</title></rect>
+<rect class="cell l0" x="803" y="111" width="10" height="10" rx="2" style="animation:c345 32s linear infinite"><title>2026-10-01: contribution level 0/4</title></rect>
+<rect class="cell l0" x="803" y="127" width="10" height="10" rx="2" style="animation:c344 32s linear infinite"><title>2026-10-02: contribution level 0/4</title></rect>
+<rect class="cell l1" x="803" y="143" width="10" height="10" rx="2" style="animation:c343 32s linear infinite"><title>2026-10-03: contribution level 1/4</title></rect>
+<rect class="cell l2" x="819" y="47" width="10" height="10" rx="2" style="animation:c350 32s linear infinite"><title>2026-10-04: contribution level 2/4</title></rect>
+<rect class="cell l1" x="819" y="63" width="10" height="10" rx="2" style="animation:c351 32s linear infinite"><title>2026-10-05: contribution level 1/4</title></rect>
+<rect class="cell l0" x="819" y="79" width="10" height="10" rx="2" style="animation:c352 32s linear infinite"><title>2026-10-06: contribution level 0/4</title></rect>
+<rect class="cell l0" x="819" y="95" width="10" height="10" rx="2" style="animation:c353 32s linear infinite"><title>2026-10-07: contribution level 0/4</title></rect>
+<rect class="cell l1" x="819" y="111" width="10" height="10" rx="2" style="animation:c354 32s linear infinite"><title>2026-10-08: contribution level 1/4</title></rect>
+<rect class="cell l1" x="819" y="127" width="10" height="10" rx="2" style="animation:c355 32s linear infinite"><title>2026-10-09: contribution level 1/4</title></rect>
+<rect class="cell l2" x="819" y="143" width="10" height="10" rx="2" style="animation:c356 32s linear infinite"><title>2026-10-10: contribution level 2/4</title></rect>
+<rect class="cell l0" x="835" y="47" width="10" height="10" rx="2" style="animation:c363 32s linear infinite"><title>2026-10-11: contribution level 0/4</title></rect>
+<rect class="cell l2" x="835" y="63" width="10" height="10" rx="2" style="animation:c362 32s linear infinite"><title>2026-10-12: contribution level 2/4</title></rect>
+<rect class="cell l1" x="835" y="79" width="10" height="10" rx="2" style="animation:c361 32s linear infinite"><title>2026-10-13: contribution level 1/4</title></rect>
+<rect class="cell l0" x="835" y="95" width="10" height="10" rx="2" style="animation:c360 32s linear infinite"><title>2026-10-14: contribution level 0/4</title></rect>
+<rect class="cell l1" x="835" y="111" width="10" height="10" rx="2" style="animation:c359 32s linear infinite"><title>2026-10-15: contribution level 1/4</title></rect>
+<rect class="cell l3" x="835" y="127" width="10" height="10" rx="2" style="animation:c358 32s linear infinite"><title>2026-10-16: contribution level 3/4</title></rect>
+<rect class="cell l4" x="835" y="143" width="10" height="10" rx="2" style="animation:c357 32s linear infinite"><title>2026-10-17: contribution level 4/4</title></rect>
+<rect class="cell l1" x="851" y="47" width="10" height="10" rx="2" style="animation:c364 32s linear infinite"><title>2026-10-18: contribution level 1/4</title></rect>
+<rect class="snake" x="-5" y="-5" width="10" height="10" rx="3" opacity="0.46"><animateMotion values="24,52;24,68;24,84;24,100;24,116;24,132;24,148;40,148;40,132;40,116;40,100;40,84;40,68;40,52;56,52;56,68;56,84;56,100;56,116;56,132;56,148;72,148;72,132;72,116;72,100;72,84;72,68;72,52;88,52;88,68;88,84;88,100;88,116;88,132;88,148;104,148;104,132;104,116;104,100;104,84;104,68;104,52;120,52;120,68;120,84;120,100;120,116;120,132;120,148;136,148;136,132;136,116;136,100;136,84;136,68;136,52;152,52;152,68;152,84;152,100;152,116;152,132;152,148;168,148;168,132;168,116;168,100;168,84;168,68;168,52;184,52;184,68;184,84;184,100;184,116;184,132;184,148;200,148;200,132;200,116;200,100;200,84;200,68;200,52;216,52;216,68;216,84;216,100;216,116;216,132;216,148;232,148;232,132;232,116;232,100;232,84;232,68;232,52;248,52;248,68;248,84;248,100;248,116;248,132;248,148;264,148;264,132;264,116;264,100;264,84;264,68;264,52;280,52;280,68;280,84;280,100;280,116;280,132;280,148;296,148;296,132;296,116;296,100;296,84;296,68;296,52;312,52;312,68;312,84;312,100;312,116;312,132;312,148;328,148;328,132;328,116;328,100;328,84;328,68;328,52;344,52;344,68;344,84;344,100;344,116;344,132;344,148;360,148;360,132;360,116;360,100;360,84;360,68;360,52;376,52;376,68;376,84;376,100;376,116;376,132;376,148;392,148;392,132;392,116;392,100;392,84;392,68;392,52;408,52;408,68;408,84;408,100;408,116;408,132;408,148;424,148;424,132;424,116;424,100;424,84;424,68;424,52;440,52;440,68;440,84;440,100;440,116;440,132;440,148;456,148;456,132;456,116;456,100;456,84;456,68;456,52;472,52;472,68;472,84;472,100;472,116;472,132;472,148;488,148;488,132;488,116;488,100;488,84;488,68;488,52;504,52;504,68;504,84;504,100;504,116;504,132;504,148;520,148;520,132;520,116;520,100;520,84;520,68;520,52;536,52;536,68;536,84;536,100;536,116;536,132;536,148;552,148;552,132;552,116;552,100;552,84;552,68;552,52;568,52;568,68;568,84;568,100;568,116;568,132;568,148;584,148;584,132;584,116;584,100;584,84;584,68;584,52;600,52;600,68;600,84;600,100;600,116;600,132;600,148;616,148;616,132;616,116;616,100;616,84;616,68;616,52;632,52;632,68;632,84;632,100;632,116;632,132;632,148;648,148;648,132;648,116;648,100;648,84;648,68;648,52;664,52;664,68;664,84;664,100;664,116;664,132;664,148;680,148;680,132;680,116;680,100;680,84;680,68;680,52;696,52;696,68;696,84;696,100;696,116;696,132;696,148;712,148;712,132;712,116;712,100;712,84;712,68;712,52;728,52;728,68;728,84;728,100;728,116;728,132;728,148;744,148;744,132;744,116;744,100;744,84;744,68;744,52;760,52;760,68;760,84;760,100;760,116;760,132;760,148;776,148;776,132;776,116;776,100;776,84;776,68;776,52;792,52;792,68;792,84;792,100;792,116;792,132;792,148;808,148;808,132;808,116;808,100;808,84;808,68;808,52;824,52;824,68;824,84;824,100;824,116;824,132;824,148;840,148;840,132;840,116;840,100;840,84;840,68;840,52;856,52;856,68;856,84;856,100;856,116;856,132;856,148;856,176;24,176;24,52" keyTimes="0.000000;0.002681;0.005362;0.008043;0.010724;0.013405;0.016086;0.018767;0.021448;0.024129;0.026810;0.029491;0.032172;0.034853;0.037534;0.040214;0.042895;0.045576;0.048257;0.050938;0.053619;0.056300;0.058981;0.061662;0.064343;0.067024;0.069705;0.072386;0.075067;0.077748;0.080429;0.083110;0.085791;0.088472;0.091153;0.093834;0.096515;0.099196;0.101877;0.104558;0.107239;0.109920;0.112601;0.115282;0.117962;0.120643;0.123324;0.126005;0.128686;0.131367;0.134048;0.136729;0.139410;0.142091;0.144772;0.147453;0.150134;0.152815;0.155496;0.158177;0.160858;0.163539;0.166220;0.168901;0.171582;0.174263;0.176944;0.179625;0.182306;0.184987;0.187668;0.190349;0.193029;0.195710;0.198391;0.201072;0.203753;0.206434;0.209115;0.211796;0.214477;0.217158;0.219839;0.222520;0.225201;0.227882;0.230563;0.233244;0.235925;0.238606;0.241287;0.243968;0.246649;0.249330;0.252011;0.254692;0.257373;0.260054;0.262735;0.265416;0.268097;0.270777;0.273458;0.276139;0.278820;0.281501;0.284182;0.286863;0.289544;0.292225;0.294906;0.297587;0.300268;0.302949;0.305630;0.308311;0.310992;0.313673;0.316354;0.319035;0.321716;0.324397;0.327078;0.329759;0.332440;0.335121;0.337802;0.340483;0.343164;0.345845;0.348525;0.351206;0.353887;0.356568;0.359249;0.361930;0.364611;0.367292;0.369973;0.372654;0.375335;0.378016;0.380697;0.383378;0.386059;0.388740;0.391421;0.394102;0.396783;0.399464;0.402145;0.404826;0.407507;0.410188;0.412869;0.415550;0.418231;0.420912;0.423592;0.426273;0.428954;0.431635;0.434316;0.436997;0.439678;0.442359;0.445040;0.447721;0.450402;0.453083;0.455764;0.458445;0.461126;0.463807;0.466488;0.469169;0.471850;0.474531;0.477212;0.479893;0.482574;0.485255;0.487936;0.490617;0.493298;0.495979;0.498660;0.501340;0.504021;0.506702;0.509383;0.512064;0.514745;0.517426;0.520107;0.522788;0.525469;0.528150;0.530831;0.533512;0.536193;0.538874;0.541555;0.544236;0.546917;0.549598;0.552279;0.554960;0.557641;0.560322;0.563003;0.565684;0.568365;0.571046;0.573727;0.576408;0.579088;0.581769;0.584450;0.587131;0.589812;0.592493;0.595174;0.597855;0.600536;0.603217;0.605898;0.608579;0.611260;0.613941;0.616622;0.619303;0.621984;0.624665;0.627346;0.630027;0.632708;0.635389;0.638070;0.640751;0.643432;0.646113;0.648794;0.651475;0.654155;0.656836;0.659517;0.662198;0.664879;0.667560;0.670241;0.672922;0.675603;0.678284;0.680965;0.683646;0.686327;0.689008;0.691689;0.694370;0.697051;0.699732;0.702413;0.705094;0.707775;0.710456;0.713137;0.715818;0.718499;0.721180;0.723861;0.726542;0.729223;0.731903;0.734584;0.737265;0.739946;0.742627;0.745308;0.747989;0.750670;0.753351;0.756032;0.758713;0.761394;0.764075;0.766756;0.769437;0.772118;0.774799;0.777480;0.780161;0.782842;0.785523;0.788204;0.790885;0.793566;0.796247;0.798928;0.801609;0.804290;0.806971;0.809651;0.812332;0.815013;0.817694;0.820375;0.823056;0.825737;0.828418;0.831099;0.833780;0.836461;0.839142;0.841823;0.844504;0.847185;0.849866;0.852547;0.855228;0.857909;0.860590;0.863271;0.865952;0.868633;0.871314;0.873995;0.876676;0.879357;0.882038;0.884718;0.887399;0.890080;0.892761;0.895442;0.898123;0.900804;0.903485;0.906166;0.908847;0.911528;0.914209;0.916890;0.919571;0.922252;0.924933;0.927614;0.930295;0.932976;0.935657;0.938338;0.941019;0.943700;0.946381;0.949062;0.951743;0.954424;0.957105;0.959786;0.962466;0.965147;0.967828;0.970509;0.973190;0.975871;0.978552;0.981233;0.983914;0.986595;0.989276;0.991957;0.994638;0.997319;1.000000" calcMode="linear" dur="32s" begin="0.44999999999999996s" repeatCount="indefinite"/></rect>
+<rect class="snake" x="-5" y="-5" width="10" height="10" rx="3" opacity="0.55"><animateMotion values="24,52;24,68;24,84;24,100;24,116;24,132;24,148;40,148;40,132;40,116;40,100;40,84;40,68;40,52;56,52;56,68;56,84;56,100;56,116;56,132;56,148;72,148;72,132;72,116;72,100;72,84;72,68;72,52;88,52;88,68;88,84;88,100;88,116;88,132;88,148;104,148;104,132;104,116;104,100;104,84;104,68;104,52;120,52;120,68;120,84;120,100;120,116;120,132;120,148;136,148;136,132;136,116;136,100;136,84;136,68;136,52;152,52;152,68;152,84;152,100;152,116;152,132;152,148;168,148;168,132;168,116;168,100;168,84;168,68;168,52;184,52;184,68;184,84;184,100;184,116;184,132;184,148;200,148;200,132;200,116;200,100;200,84;200,68;200,52;216,52;216,68;216,84;216,100;216,116;216,132;216,148;232,148;232,132;232,116;232,100;232,84;232,68;232,52;248,52;248,68;248,84;248,100;248,116;248,132;248,148;264,148;264,132;264,116;264,100;264,84;264,68;264,52;280,52;280,68;280,84;280,100;280,116;280,132;280,148;296,148;296,132;296,116;296,100;296,84;296,68;296,52;312,52;312,68;312,84;312,100;312,116;312,132;312,148;328,148;328,132;328,116;328,100;328,84;328,68;328,52;344,52;344,68;344,84;344,100;344,116;344,132;344,148;360,148;360,132;360,116;360,100;360,84;360,68;360,52;376,52;376,68;376,84;376,100;376,116;376,132;376,148;392,148;392,132;392,116;392,100;392,84;392,68;392,52;408,52;408,68;408,84;408,100;408,116;408,132;408,148;424,148;424,132;424,116;424,100;424,84;424,68;424,52;440,52;440,68;440,84;440,100;440,116;440,132;440,148;456,148;456,132;456,116;456,100;456,84;456,68;456,52;472,52;472,68;472,84;472,100;472,116;472,132;472,148;488,148;488,132;488,116;488,100;488,84;488,68;488,52;504,52;504,68;504,84;504,100;504,116;504,132;504,148;520,148;520,132;520,116;520,100;520,84;520,68;520,52;536,52;536,68;536,84;536,100;536,116;536,132;536,148;552,148;552,132;552,116;552,100;552,84;552,68;552,52;568,52;568,68;568,84;568,100;568,116;568,132;568,148;584,148;584,132;584,116;584,100;584,84;584,68;584,52;600,52;600,68;600,84;600,100;600,116;600,132;600,148;616,148;616,132;616,116;616,100;616,84;616,68;616,52;632,52;632,68;632,84;632,100;632,116;632,132;632,148;648,148;648,132;648,116;648,100;648,84;648,68;648,52;664,52;664,68;664,84;664,100;664,116;664,132;664,148;680,148;680,132;680,116;680,100;680,84;680,68;680,52;696,52;696,68;696,84;696,100;696,116;696,132;696,148;712,148;712,132;712,116;712,100;712,84;712,68;712,52;728,52;728,68;728,84;728,100;728,116;728,132;728,148;744,148;744,132;744,116;744,100;744,84;744,68;744,52;760,52;760,68;760,84;760,100;760,116;760,132;760,148;776,148;776,132;776,116;776,100;776,84;776,68;776,52;792,52;792,68;792,84;792,100;792,116;792,132;792,148;808,148;808,132;808,116;808,100;808,84;808,68;808,52;824,52;824,68;824,84;824,100;824,116;824,132;824,148;840,148;840,132;840,116;840,100;840,84;840,68;840,52;856,52;856,68;856,84;856,100;856,116;856,132;856,148;856,176;24,176;24,52" keyTimes="0.000000;0.002681;0.005362;0.008043;0.010724;0.013405;0.016086;0.018767;0.021448;0.024129;0.026810;0.029491;0.032172;0.034853;0.037534;0.040214;0.042895;0.045576;0.048257;0.050938;0.053619;0.056300;0.058981;0.061662;0.064343;0.067024;0.069705;0.072386;0.075067;0.077748;0.080429;0.083110;0.085791;0.088472;0.091153;0.093834;0.096515;0.099196;0.101877;0.104558;0.107239;0.109920;0.112601;0.115282;0.117962;0.120643;0.123324;0.126005;0.128686;0.131367;0.134048;0.136729;0.139410;0.142091;0.144772;0.147453;0.150134;0.152815;0.155496;0.158177;0.160858;0.163539;0.166220;0.168901;0.171582;0.174263;0.176944;0.179625;0.182306;0.184987;0.187668;0.190349;0.193029;0.195710;0.198391;0.201072;0.203753;0.206434;0.209115;0.211796;0.214477;0.217158;0.219839;0.222520;0.225201;0.227882;0.230563;0.233244;0.235925;0.238606;0.241287;0.243968;0.246649;0.249330;0.252011;0.254692;0.257373;0.260054;0.262735;0.265416;0.268097;0.270777;0.273458;0.276139;0.278820;0.281501;0.284182;0.286863;0.289544;0.292225;0.294906;0.297587;0.300268;0.302949;0.305630;0.308311;0.310992;0.313673;0.316354;0.319035;0.321716;0.324397;0.327078;0.329759;0.332440;0.335121;0.337802;0.340483;0.343164;0.345845;0.348525;0.351206;0.353887;0.356568;0.359249;0.361930;0.364611;0.367292;0.369973;0.372654;0.375335;0.378016;0.380697;0.383378;0.386059;0.388740;0.391421;0.394102;0.396783;0.399464;0.402145;0.404826;0.407507;0.410188;0.412869;0.415550;0.418231;0.420912;0.423592;0.426273;0.428954;0.431635;0.434316;0.436997;0.439678;0.442359;0.445040;0.447721;0.450402;0.453083;0.455764;0.458445;0.461126;0.463807;0.466488;0.469169;0.471850;0.474531;0.477212;0.479893;0.482574;0.485255;0.487936;0.490617;0.493298;0.495979;0.498660;0.501340;0.504021;0.506702;0.509383;0.512064;0.514745;0.517426;0.520107;0.522788;0.525469;0.528150;0.530831;0.533512;0.536193;0.538874;0.541555;0.544236;0.546917;0.549598;0.552279;0.554960;0.557641;0.560322;0.563003;0.565684;0.568365;0.571046;0.573727;0.576408;0.579088;0.581769;0.584450;0.587131;0.589812;0.592493;0.595174;0.597855;0.600536;0.603217;0.605898;0.608579;0.611260;0.613941;0.616622;0.619303;0.621984;0.624665;0.627346;0.630027;0.632708;0.635389;0.638070;0.640751;0.643432;0.646113;0.648794;0.651475;0.654155;0.656836;0.659517;0.662198;0.664879;0.667560;0.670241;0.672922;0.675603;0.678284;0.680965;0.683646;0.686327;0.689008;0.691689;0.694370;0.697051;0.699732;0.702413;0.705094;0.707775;0.710456;0.713137;0.715818;0.718499;0.721180;0.723861;0.726542;0.729223;0.731903;0.734584;0.737265;0.739946;0.742627;0.745308;0.747989;0.750670;0.753351;0.756032;0.758713;0.761394;0.764075;0.766756;0.769437;0.772118;0.774799;0.777480;0.780161;0.782842;0.785523;0.788204;0.790885;0.793566;0.796247;0.798928;0.801609;0.804290;0.806971;0.809651;0.812332;0.815013;0.817694;0.820375;0.823056;0.825737;0.828418;0.831099;0.833780;0.836461;0.839142;0.841823;0.844504;0.847185;0.849866;0.852547;0.855228;0.857909;0.860590;0.863271;0.865952;0.868633;0.871314;0.873995;0.876676;0.879357;0.882038;0.884718;0.887399;0.890080;0.892761;0.895442;0.898123;0.900804;0.903485;0.906166;0.908847;0.911528;0.914209;0.916890;0.919571;0.922252;0.924933;0.927614;0.930295;0.932976;0.935657;0.938338;0.941019;0.943700;0.946381;0.949062;0.951743;0.954424;0.957105;0.959786;0.962466;0.965147;0.967828;0.970509;0.973190;0.975871;0.978552;0.981233;0.983914;0.986595;0.989276;0.991957;0.994638;0.997319;1.000000" calcMode="linear" dur="32s" begin="0.375s" repeatCount="indefinite"/></rect>
+<rect class="snake" x="-5" y="-5" width="10" height="10" rx="3" opacity="0.64"><animateMotion values="24,52;24,68;24,84;24,100;24,116;24,132;24,148;40,148;40,132;40,116;40,100;40,84;40,68;40,52;56,52;56,68;56,84;56,100;56,116;56,132;56,148;72,148;72,132;72,116;72,100;72,84;72,68;72,52;88,52;88,68;88,84;88,100;88,116;88,132;88,148;104,148;104,132;104,116;104,100;104,84;104,68;104,52;120,52;120,68;120,84;120,100;120,116;120,132;120,148;136,148;136,132;136,116;136,100;136,84;136,68;136,52;152,52;152,68;152,84;152,100;152,116;152,132;152,148;168,148;168,132;168,116;168,100;168,84;168,68;168,52;184,52;184,68;184,84;184,100;184,116;184,132;184,148;200,148;200,132;200,116;200,100;200,84;200,68;200,52;216,52;216,68;216,84;216,100;216,116;216,132;216,148;232,148;232,132;232,116;232,100;232,84;232,68;232,52;248,52;248,68;248,84;248,100;248,116;248,132;248,148;264,148;264,132;264,116;264,100;264,84;264,68;264,52;280,52;280,68;280,84;280,100;280,116;280,132;280,148;296,148;296,132;296,116;296,100;296,84;296,68;296,52;312,52;312,68;312,84;312,100;312,116;312,132;312,148;328,148;328,132;328,116;328,100;328,84;328,68;328,52;344,52;344,68;344,84;344,100;344,116;344,132;344,148;360,148;360,132;360,116;360,100;360,84;360,68;360,52;376,52;376,68;376,84;376,100;376,116;376,132;376,148;392,148;392,132;392,116;392,100;392,84;392,68;392,52;408,52;408,68;408,84;408,100;408,116;408,132;408,148;424,148;424,132;424,116;424,100;424,84;424,68;424,52;440,52;440,68;440,84;440,100;440,116;440,132;440,148;456,148;456,132;456,116;456,100;456,84;456,68;456,52;472,52;472,68;472,84;472,100;472,116;472,132;472,148;488,148;488,132;488,116;488,100;488,84;488,68;488,52;504,52;504,68;504,84;504,100;504,116;504,132;504,148;520,148;520,132;520,116;520,100;520,84;520,68;520,52;536,52;536,68;536,84;536,100;536,116;536,132;536,148;552,148;552,132;552,116;552,100;552,84;552,68;552,52;568,52;568,68;568,84;568,100;568,116;568,132;568,148;584,148;584,132;584,116;584,100;584,84;584,68;584,52;600,52;600,68;600,84;600,100;600,116;600,132;600,148;616,148;616,132;616,116;616,100;616,84;616,68;616,52;632,52;632,68;632,84;632,100;632,116;632,132;632,148;648,148;648,132;648,116;648,100;648,84;648,68;648,52;664,52;664,68;664,84;664,100;664,116;664,132;664,148;680,148;680,132;680,116;680,100;680,84;680,68;680,52;696,52;696,68;696,84;696,100;696,116;696,132;696,148;712,148;712,132;712,116;712,100;712,84;712,68;712,52;728,52;728,68;728,84;728,100;728,116;728,132;728,148;744,148;744,132;744,116;744,100;744,84;744,68;744,52;760,52;760,68;760,84;760,100;760,116;760,132;760,148;776,148;776,132;776,116;776,100;776,84;776,68;776,52;792,52;792,68;792,84;792,100;792,116;792,132;792,148;808,148;808,132;808,116;808,100;808,84;808,68;808,52;824,52;824,68;824,84;824,100;824,116;824,132;824,148;840,148;840,132;840,116;840,100;840,84;840,68;840,52;856,52;856,68;856,84;856,100;856,116;856,132;856,148;856,176;24,176;24,52" keyTimes="0.000000;0.002681;0.005362;0.008043;0.010724;0.013405;0.016086;0.018767;0.021448;0.024129;0.026810;0.029491;0.032172;0.034853;0.037534;0.040214;0.042895;0.045576;0.048257;0.050938;0.053619;0.056300;0.058981;0.061662;0.064343;0.067024;0.069705;0.072386;0.075067;0.077748;0.080429;0.083110;0.085791;0.088472;0.091153;0.093834;0.096515;0.099196;0.101877;0.104558;0.107239;0.109920;0.112601;0.115282;0.117962;0.120643;0.123324;0.126005;0.128686;0.131367;0.134048;0.136729;0.139410;0.142091;0.144772;0.147453;0.150134;0.152815;0.155496;0.158177;0.160858;0.163539;0.166220;0.168901;0.171582;0.174263;0.176944;0.179625;0.182306;0.184987;0.187668;0.190349;0.193029;0.195710;0.198391;0.201072;0.203753;0.206434;0.209115;0.211796;0.214477;0.217158;0.219839;0.222520;0.225201;0.227882;0.230563;0.233244;0.235925;0.238606;0.241287;0.243968;0.246649;0.249330;0.252011;0.254692;0.257373;0.260054;0.262735;0.265416;0.268097;0.270777;0.273458;0.276139;0.278820;0.281501;0.284182;0.286863;0.289544;0.292225;0.294906;0.297587;0.300268;0.302949;0.305630;0.308311;0.310992;0.313673;0.316354;0.319035;0.321716;0.324397;0.327078;0.329759;0.332440;0.335121;0.337802;0.340483;0.343164;0.345845;0.348525;0.351206;0.353887;0.356568;0.359249;0.361930;0.364611;0.367292;0.369973;0.372654;0.375335;0.378016;0.380697;0.383378;0.386059;0.388740;0.391421;0.394102;0.396783;0.399464;0.402145;0.404826;0.407507;0.410188;0.412869;0.415550;0.418231;0.420912;0.423592;0.426273;0.428954;0.431635;0.434316;0.436997;0.439678;0.442359;0.445040;0.447721;0.450402;0.453083;0.455764;0.458445;0.461126;0.463807;0.466488;0.469169;0.471850;0.474531;0.477212;0.479893;0.482574;0.485255;0.487936;0.490617;0.493298;0.495979;0.498660;0.501340;0.504021;0.506702;0.509383;0.512064;0.514745;0.517426;0.520107;0.522788;0.525469;0.528150;0.530831;0.533512;0.536193;0.538874;0.541555;0.544236;0.546917;0.549598;0.552279;0.554960;0.557641;0.560322;0.563003;0.565684;0.568365;0.571046;0.573727;0.576408;0.579088;0.581769;0.584450;0.587131;0.589812;0.592493;0.595174;0.597855;0.600536;0.603217;0.605898;0.608579;0.611260;0.613941;0.616622;0.619303;0.621984;0.624665;0.627346;0.630027;0.632708;0.635389;0.638070;0.640751;0.643432;0.646113;0.648794;0.651475;0.654155;0.656836;0.659517;0.662198;0.664879;0.667560;0.670241;0.672922;0.675603;0.678284;0.680965;0.683646;0.686327;0.689008;0.691689;0.694370;0.697051;0.699732;0.702413;0.705094;0.707775;0.710456;0.713137;0.715818;0.718499;0.721180;0.723861;0.726542;0.729223;0.731903;0.734584;0.737265;0.739946;0.742627;0.745308;0.747989;0.750670;0.753351;0.756032;0.758713;0.761394;0.764075;0.766756;0.769437;0.772118;0.774799;0.777480;0.780161;0.782842;0.785523;0.788204;0.790885;0.793566;0.796247;0.798928;0.801609;0.804290;0.806971;0.809651;0.812332;0.815013;0.817694;0.820375;0.823056;0.825737;0.828418;0.831099;0.833780;0.836461;0.839142;0.841823;0.844504;0.847185;0.849866;0.852547;0.855228;0.857909;0.860590;0.863271;0.865952;0.868633;0.871314;0.873995;0.876676;0.879357;0.882038;0.884718;0.887399;0.890080;0.892761;0.895442;0.898123;0.900804;0.903485;0.906166;0.908847;0.911528;0.914209;0.916890;0.919571;0.922252;0.924933;0.927614;0.930295;0.932976;0.935657;0.938338;0.941019;0.943700;0.946381;0.949062;0.951743;0.954424;0.957105;0.959786;0.962466;0.965147;0.967828;0.970509;0.973190;0.975871;0.978552;0.981233;0.983914;0.986595;0.989276;0.991957;0.994638;0.997319;1.000000" calcMode="linear" dur="32s" begin="0.3s" repeatCount="indefinite"/></rect>
+<rect class="snake" x="-5" y="-5" width="10" height="10" rx="3" opacity="0.73"><animateMotion values="24,52;24,68;24,84;24,100;24,116;24,132;24,148;40,148;40,132;40,116;40,100;40,84;40,68;40,52;56,52;56,68;56,84;56,100;56,116;56,132;56,148;72,148;72,132;72,116;72,100;72,84;72,68;72,52;88,52;88,68;88,84;88,100;88,116;88,132;88,148;104,148;104,132;104,116;104,100;104,84;104,68;104,52;120,52;120,68;120,84;120,100;120,116;120,132;120,148;136,148;136,132;136,116;136,100;136,84;136,68;136,52;152,52;152,68;152,84;152,100;152,116;152,132;152,148;168,148;168,132;168,116;168,100;168,84;168,68;168,52;184,52;184,68;184,84;184,100;184,116;184,132;184,148;200,148;200,132;200,116;200,100;200,84;200,68;200,52;216,52;216,68;216,84;216,100;216,116;216,132;216,148;232,148;232,132;232,116;232,100;232,84;232,68;232,52;248,52;248,68;248,84;248,100;248,116;248,132;248,148;264,148;264,132;264,116;264,100;264,84;264,68;264,52;280,52;280,68;280,84;280,100;280,116;280,132;280,148;296,148;296,132;296,116;296,100;296,84;296,68;296,52;312,52;312,68;312,84;312,100;312,116;312,132;312,148;328,148;328,132;328,116;328,100;328,84;328,68;328,52;344,52;344,68;344,84;344,100;344,116;344,132;344,148;360,148;360,132;360,116;360,100;360,84;360,68;360,52;376,52;376,68;376,84;376,100;376,116;376,132;376,148;392,148;392,132;392,116;392,100;392,84;392,68;392,52;408,52;408,68;408,84;408,100;408,116;408,132;408,148;424,148;424,132;424,116;424,100;424,84;424,68;424,52;440,52;440,68;440,84;440,100;440,116;440,132;440,148;456,148;456,132;456,116;456,100;456,84;456,68;456,52;472,52;472,68;472,84;472,100;472,116;472,132;472,148;488,148;488,132;488,116;488,100;488,84;488,68;488,52;504,52;504,68;504,84;504,100;504,116;504,132;504,148;520,148;520,132;520,116;520,100;520,84;520,68;520,52;536,52;536,68;536,84;536,100;536,116;536,132;536,148;552,148;552,132;552,116;552,100;552,84;552,68;552,52;568,52;568,68;568,84;568,100;568,116;568,132;568,148;584,148;584,132;584,116;584,100;584,84;584,68;584,52;600,52;600,68;600,84;600,100;600,116;600,132;600,148;616,148;616,132;616,116;616,100;616,84;616,68;616,52;632,52;632,68;632,84;632,100;632,116;632,132;632,148;648,148;648,132;648,116;648,100;648,84;648,68;648,52;664,52;664,68;664,84;664,100;664,116;664,132;664,148;680,148;680,132;680,116;680,100;680,84;680,68;680,52;696,52;696,68;696,84;696,100;696,116;696,132;696,148;712,148;712,132;712,116;712,100;712,84;712,68;712,52;728,52;728,68;728,84;728,100;728,116;728,132;728,148;744,148;744,132;744,116;744,100;744,84;744,68;744,52;760,52;760,68;760,84;760,100;760,116;760,132;760,148;776,148;776,132;776,116;776,100;776,84;776,68;776,52;792,52;792,68;792,84;792,100;792,116;792,132;792,148;808,148;808,132;808,116;808,100;808,84;808,68;808,52;824,52;824,68;824,84;824,100;824,116;824,132;824,148;840,148;840,132;840,116;840,100;840,84;840,68;840,52;856,52;856,68;856,84;856,100;856,116;856,132;856,148;856,176;24,176;24,52" keyTimes="0.000000;0.002681;0.005362;0.008043;0.010724;0.013405;0.016086;0.018767;0.021448;0.024129;0.026810;0.029491;0.032172;0.034853;0.037534;0.040214;0.042895;0.045576;0.048257;0.050938;0.053619;0.056300;0.058981;0.061662;0.064343;0.067024;0.069705;0.072386;0.075067;0.077748;0.080429;0.083110;0.085791;0.088472;0.091153;0.093834;0.096515;0.099196;0.101877;0.104558;0.107239;0.109920;0.112601;0.115282;0.117962;0.120643;0.123324;0.126005;0.128686;0.131367;0.134048;0.136729;0.139410;0.142091;0.144772;0.147453;0.150134;0.152815;0.155496;0.158177;0.160858;0.163539;0.166220;0.168901;0.171582;0.174263;0.176944;0.179625;0.182306;0.184987;0.187668;0.190349;0.193029;0.195710;0.198391;0.201072;0.203753;0.206434;0.209115;0.211796;0.214477;0.217158;0.219839;0.222520;0.225201;0.227882;0.230563;0.233244;0.235925;0.238606;0.241287;0.243968;0.246649;0.249330;0.252011;0.254692;0.257373;0.260054;0.262735;0.265416;0.268097;0.270777;0.273458;0.276139;0.278820;0.281501;0.284182;0.286863;0.289544;0.292225;0.294906;0.297587;0.300268;0.302949;0.305630;0.308311;0.310992;0.313673;0.316354;0.319035;0.321716;0.324397;0.327078;0.329759;0.332440;0.335121;0.337802;0.340483;0.343164;0.345845;0.348525;0.351206;0.353887;0.356568;0.359249;0.361930;0.364611;0.367292;0.369973;0.372654;0.375335;0.378016;0.380697;0.383378;0.386059;0.388740;0.391421;0.394102;0.396783;0.399464;0.402145;0.404826;0.407507;0.410188;0.412869;0.415550;0.418231;0.420912;0.423592;0.426273;0.428954;0.431635;0.434316;0.436997;0.439678;0.442359;0.445040;0.447721;0.450402;0.453083;0.455764;0.458445;0.461126;0.463807;0.466488;0.469169;0.471850;0.474531;0.477212;0.479893;0.482574;0.485255;0.487936;0.490617;0.493298;0.495979;0.498660;0.501340;0.504021;0.506702;0.509383;0.512064;0.514745;0.517426;0.520107;0.522788;0.525469;0.528150;0.530831;0.533512;0.536193;0.538874;0.541555;0.544236;0.546917;0.549598;0.552279;0.554960;0.557641;0.560322;0.563003;0.565684;0.568365;0.571046;0.573727;0.576408;0.579088;0.581769;0.584450;0.587131;0.589812;0.592493;0.595174;0.597855;0.600536;0.603217;0.605898;0.608579;0.611260;0.613941;0.616622;0.619303;0.621984;0.624665;0.627346;0.630027;0.632708;0.635389;0.638070;0.640751;0.643432;0.646113;0.648794;0.651475;0.654155;0.656836;0.659517;0.662198;0.664879;0.667560;0.670241;0.672922;0.675603;0.678284;0.680965;0.683646;0.686327;0.689008;0.691689;0.694370;0.697051;0.699732;0.702413;0.705094;0.707775;0.710456;0.713137;0.715818;0.718499;0.721180;0.723861;0.726542;0.729223;0.731903;0.734584;0.737265;0.739946;0.742627;0.745308;0.747989;0.750670;0.753351;0.756032;0.758713;0.761394;0.764075;0.766756;0.769437;0.772118;0.774799;0.777480;0.780161;0.782842;0.785523;0.788204;0.790885;0.793566;0.796247;0.798928;0.801609;0.804290;0.806971;0.809651;0.812332;0.815013;0.817694;0.820375;0.823056;0.825737;0.828418;0.831099;0.833780;0.836461;0.839142;0.841823;0.844504;0.847185;0.849866;0.852547;0.855228;0.857909;0.860590;0.863271;0.865952;0.868633;0.871314;0.873995;0.876676;0.879357;0.882038;0.884718;0.887399;0.890080;0.892761;0.895442;0.898123;0.900804;0.903485;0.906166;0.908847;0.911528;0.914209;0.916890;0.919571;0.922252;0.924933;0.927614;0.930295;0.932976;0.935657;0.938338;0.941019;0.943700;0.946381;0.949062;0.951743;0.954424;0.957105;0.959786;0.962466;0.965147;0.967828;0.970509;0.973190;0.975871;0.978552;0.981233;0.983914;0.986595;0.989276;0.991957;0.994638;0.997319;1.000000" calcMode="linear" dur="32s" begin="0.22499999999999998s" repeatCount="indefinite"/></rect>
+<rect class="snake" x="-5" y="-5" width="10" height="10" rx="3" opacity="0.82"><animateMotion values="24,52;24,68;24,84;24,100;24,116;24,132;24,148;40,148;40,132;40,116;40,100;40,84;40,68;40,52;56,52;56,68;56,84;56,100;56,116;56,132;56,148;72,148;72,132;72,116;72,100;72,84;72,68;72,52;88,52;88,68;88,84;88,100;88,116;88,132;88,148;104,148;104,132;104,116;104,100;104,84;104,68;104,52;120,52;120,68;120,84;120,100;120,116;120,132;120,148;136,148;136,132;136,116;136,100;136,84;136,68;136,52;152,52;152,68;152,84;152,100;152,116;152,132;152,148;168,148;168,132;168,116;168,100;168,84;168,68;168,52;184,52;184,68;184,84;184,100;184,116;184,132;184,148;200,148;200,132;200,116;200,100;200,84;200,68;200,52;216,52;216,68;216,84;216,100;216,116;216,132;216,148;232,148;232,132;232,116;232,100;232,84;232,68;232,52;248,52;248,68;248,84;248,100;248,116;248,132;248,148;264,148;264,132;264,116;264,100;264,84;264,68;264,52;280,52;280,68;280,84;280,100;280,116;280,132;280,148;296,148;296,132;296,116;296,100;296,84;296,68;296,52;312,52;312,68;312,84;312,100;312,116;312,132;312,148;328,148;328,132;328,116;328,100;328,84;328,68;328,52;344,52;344,68;344,84;344,100;344,116;344,132;344,148;360,148;360,132;360,116;360,100;360,84;360,68;360,52;376,52;376,68;376,84;376,100;376,116;376,132;376,148;392,148;392,132;392,116;392,100;392,84;392,68;392,52;408,52;408,68;408,84;408,100;408,116;408,132;408,148;424,148;424,132;424,116;424,100;424,84;424,68;424,52;440,52;440,68;440,84;440,100;440,116;440,132;440,148;456,148;456,132;456,116;456,100;456,84;456,68;456,52;472,52;472,68;472,84;472,100;472,116;472,132;472,148;488,148;488,132;488,116;488,100;488,84;488,68;488,52;504,52;504,68;504,84;504,100;504,116;504,132;504,148;520,148;520,132;520,116;520,100;520,84;520,68;520,52;536,52;536,68;536,84;536,100;536,116;536,132;536,148;552,148;552,132;552,116;552,100;552,84;552,68;552,52;568,52;568,68;568,84;568,100;568,116;568,132;568,148;584,148;584,132;584,116;584,100;584,84;584,68;584,52;600,52;600,68;600,84;600,100;600,116;600,132;600,148;616,148;616,132;616,116;616,100;616,84;616,68;616,52;632,52;632,68;632,84;632,100;632,116;632,132;632,148;648,148;648,132;648,116;648,100;648,84;648,68;648,52;664,52;664,68;664,84;664,100;664,116;664,132;664,148;680,148;680,132;680,116;680,100;680,84;680,68;680,52;696,52;696,68;696,84;696,100;696,116;696,132;696,148;712,148;712,132;712,116;712,100;712,84;712,68;712,52;728,52;728,68;728,84;728,100;728,116;728,132;728,148;744,148;744,132;744,116;744,100;744,84;744,68;744,52;760,52;760,68;760,84;760,100;760,116;760,132;760,148;776,148;776,132;776,116;776,100;776,84;776,68;776,52;792,52;792,68;792,84;792,100;792,116;792,132;792,148;808,148;808,132;808,116;808,100;808,84;808,68;808,52;824,52;824,68;824,84;824,100;824,116;824,132;824,148;840,148;840,132;840,116;840,100;840,84;840,68;840,52;856,52;856,68;856,84;856,100;856,116;856,132;856,148;856,176;24,176;24,52" keyTimes="0.000000;0.002681;0.005362;0.008043;0.010724;0.013405;0.016086;0.018767;0.021448;0.024129;0.026810;0.029491;0.032172;0.034853;0.037534;0.040214;0.042895;0.045576;0.048257;0.050938;0.053619;0.056300;0.058981;0.061662;0.064343;0.067024;0.069705;0.072386;0.075067;0.077748;0.080429;0.083110;0.085791;0.088472;0.091153;0.093834;0.096515;0.099196;0.101877;0.104558;0.107239;0.109920;0.112601;0.115282;0.117962;0.120643;0.123324;0.126005;0.128686;0.131367;0.134048;0.136729;0.139410;0.142091;0.144772;0.147453;0.150134;0.152815;0.155496;0.158177;0.160858;0.163539;0.166220;0.168901;0.171582;0.174263;0.176944;0.179625;0.182306;0.184987;0.187668;0.190349;0.193029;0.195710;0.198391;0.201072;0.203753;0.206434;0.209115;0.211796;0.214477;0.217158;0.219839;0.222520;0.225201;0.227882;0.230563;0.233244;0.235925;0.238606;0.241287;0.243968;0.246649;0.249330;0.252011;0.254692;0.257373;0.260054;0.262735;0.265416;0.268097;0.270777;0.273458;0.276139;0.278820;0.281501;0.284182;0.286863;0.289544;0.292225;0.294906;0.297587;0.300268;0.302949;0.305630;0.308311;0.310992;0.313673;0.316354;0.319035;0.321716;0.324397;0.327078;0.329759;0.332440;0.335121;0.337802;0.340483;0.343164;0.345845;0.348525;0.351206;0.353887;0.356568;0.359249;0.361930;0.364611;0.367292;0.369973;0.372654;0.375335;0.378016;0.380697;0.383378;0.386059;0.388740;0.391421;0.394102;0.396783;0.399464;0.402145;0.404826;0.407507;0.410188;0.412869;0.415550;0.418231;0.420912;0.423592;0.426273;0.428954;0.431635;0.434316;0.436997;0.439678;0.442359;0.445040;0.447721;0.450402;0.453083;0.455764;0.458445;0.461126;0.463807;0.466488;0.469169;0.471850;0.474531;0.477212;0.479893;0.482574;0.485255;0.487936;0.490617;0.493298;0.495979;0.498660;0.501340;0.504021;0.506702;0.509383;0.512064;0.514745;0.517426;0.520107;0.522788;0.525469;0.528150;0.530831;0.533512;0.536193;0.538874;0.541555;0.544236;0.546917;0.549598;0.552279;0.554960;0.557641;0.560322;0.563003;0.565684;0.568365;0.571046;0.573727;0.576408;0.579088;0.581769;0.584450;0.587131;0.589812;0.592493;0.595174;0.597855;0.600536;0.603217;0.605898;0.608579;0.611260;0.613941;0.616622;0.619303;0.621984;0.624665;0.627346;0.630027;0.632708;0.635389;0.638070;0.640751;0.643432;0.646113;0.648794;0.651475;0.654155;0.656836;0.659517;0.662198;0.664879;0.667560;0.670241;0.672922;0.675603;0.678284;0.680965;0.683646;0.686327;0.689008;0.691689;0.694370;0.697051;0.699732;0.702413;0.705094;0.707775;0.710456;0.713137;0.715818;0.718499;0.721180;0.723861;0.726542;0.729223;0.731903;0.734584;0.737265;0.739946;0.742627;0.745308;0.747989;0.750670;0.753351;0.756032;0.758713;0.761394;0.764075;0.766756;0.769437;0.772118;0.774799;0.777480;0.780161;0.782842;0.785523;0.788204;0.790885;0.793566;0.796247;0.798928;0.801609;0.804290;0.806971;0.809651;0.812332;0.815013;0.817694;0.820375;0.823056;0.825737;0.828418;0.831099;0.833780;0.836461;0.839142;0.841823;0.844504;0.847185;0.849866;0.852547;0.855228;0.857909;0.860590;0.863271;0.865952;0.868633;0.871314;0.873995;0.876676;0.879357;0.882038;0.884718;0.887399;0.890080;0.892761;0.895442;0.898123;0.900804;0.903485;0.906166;0.908847;0.911528;0.914209;0.916890;0.919571;0.922252;0.924933;0.927614;0.930295;0.932976;0.935657;0.938338;0.941019;0.943700;0.946381;0.949062;0.951743;0.954424;0.957105;0.959786;0.962466;0.965147;0.967828;0.970509;0.973190;0.975871;0.978552;0.981233;0.983914;0.986595;0.989276;0.991957;0.994638;0.997319;1.000000" calcMode="linear" dur="32s" begin="0.15s" repeatCount="indefinite"/></rect>
+<rect class="snake" x="-5" y="-5" width="10" height="10" rx="3" opacity="0.91"><animateMotion values="24,52;24,68;24,84;24,100;24,116;24,132;24,148;40,148;40,132;40,116;40,100;40,84;40,68;40,52;56,52;56,68;56,84;56,100;56,116;56,132;56,148;72,148;72,132;72,116;72,100;72,84;72,68;72,52;88,52;88,68;88,84;88,100;88,116;88,132;88,148;104,148;104,132;104,116;104,100;104,84;104,68;104,52;120,52;120,68;120,84;120,100;120,116;120,132;120,148;136,148;136,132;136,116;136,100;136,84;136,68;136,52;152,52;152,68;152,84;152,100;152,116;152,132;152,148;168,148;168,132;168,116;168,100;168,84;168,68;168,52;184,52;184,68;184,84;184,100;184,116;184,132;184,148;200,148;200,132;200,116;200,100;200,84;200,68;200,52;216,52;216,68;216,84;216,100;216,116;216,132;216,148;232,148;232,132;232,116;232,100;232,84;232,68;232,52;248,52;248,68;248,84;248,100;248,116;248,132;248,148;264,148;264,132;264,116;264,100;264,84;264,68;264,52;280,52;280,68;280,84;280,100;280,116;280,132;280,148;296,148;296,132;296,116;296,100;296,84;296,68;296,52;312,52;312,68;312,84;312,100;312,116;312,132;312,148;328,148;328,132;328,116;328,100;328,84;328,68;328,52;344,52;344,68;344,84;344,100;344,116;344,132;344,148;360,148;360,132;360,116;360,100;360,84;360,68;360,52;376,52;376,68;376,84;376,100;376,116;376,132;376,148;392,148;392,132;392,116;392,100;392,84;392,68;392,52;408,52;408,68;408,84;408,100;408,116;408,132;408,148;424,148;424,132;424,116;424,100;424,84;424,68;424,52;440,52;440,68;440,84;440,100;440,116;440,132;440,148;456,148;456,132;456,116;456,100;456,84;456,68;456,52;472,52;472,68;472,84;472,100;472,116;472,132;472,148;488,148;488,132;488,116;488,100;488,84;488,68;488,52;504,52;504,68;504,84;504,100;504,116;504,132;504,148;520,148;520,132;520,116;520,100;520,84;520,68;520,52;536,52;536,68;536,84;536,100;536,116;536,132;536,148;552,148;552,132;552,116;552,100;552,84;552,68;552,52;568,52;568,68;568,84;568,100;568,116;568,132;568,148;584,148;584,132;584,116;584,100;584,84;584,68;584,52;600,52;600,68;600,84;600,100;600,116;600,132;600,148;616,148;616,132;616,116;616,100;616,84;616,68;616,52;632,52;632,68;632,84;632,100;632,116;632,132;632,148;648,148;648,132;648,116;648,100;648,84;648,68;648,52;664,52;664,68;664,84;664,100;664,116;664,132;664,148;680,148;680,132;680,116;680,100;680,84;680,68;680,52;696,52;696,68;696,84;696,100;696,116;696,132;696,148;712,148;712,132;712,116;712,100;712,84;712,68;712,52;728,52;728,68;728,84;728,100;728,116;728,132;728,148;744,148;744,132;744,116;744,100;744,84;744,68;744,52;760,52;760,68;760,84;760,100;760,116;760,132;760,148;776,148;776,132;776,116;776,100;776,84;776,68;776,52;792,52;792,68;792,84;792,100;792,116;792,132;792,148;808,148;808,132;808,116;808,100;808,84;808,68;808,52;824,52;824,68;824,84;824,100;824,116;824,132;824,148;840,148;840,132;840,116;840,100;840,84;840,68;840,52;856,52;856,68;856,84;856,100;856,116;856,132;856,148;856,176;24,176;24,52" keyTimes="0.000000;0.002681;0.005362;0.008043;0.010724;0.013405;0.016086;0.018767;0.021448;0.024129;0.026810;0.029491;0.032172;0.034853;0.037534;0.040214;0.042895;0.045576;0.048257;0.050938;0.053619;0.056300;0.058981;0.061662;0.064343;0.067024;0.069705;0.072386;0.075067;0.077748;0.080429;0.083110;0.085791;0.088472;0.091153;0.093834;0.096515;0.099196;0.101877;0.104558;0.107239;0.109920;0.112601;0.115282;0.117962;0.120643;0.123324;0.126005;0.128686;0.131367;0.134048;0.136729;0.139410;0.142091;0.144772;0.147453;0.150134;0.152815;0.155496;0.158177;0.160858;0.163539;0.166220;0.168901;0.171582;0.174263;0.176944;0.179625;0.182306;0.184987;0.187668;0.190349;0.193029;0.195710;0.198391;0.201072;0.203753;0.206434;0.209115;0.211796;0.214477;0.217158;0.219839;0.222520;0.225201;0.227882;0.230563;0.233244;0.235925;0.238606;0.241287;0.243968;0.246649;0.249330;0.252011;0.254692;0.257373;0.260054;0.262735;0.265416;0.268097;0.270777;0.273458;0.276139;0.278820;0.281501;0.284182;0.286863;0.289544;0.292225;0.294906;0.297587;0.300268;0.302949;0.305630;0.308311;0.310992;0.313673;0.316354;0.319035;0.321716;0.324397;0.327078;0.329759;0.332440;0.335121;0.337802;0.340483;0.343164;0.345845;0.348525;0.351206;0.353887;0.356568;0.359249;0.361930;0.364611;0.367292;0.369973;0.372654;0.375335;0.378016;0.380697;0.383378;0.386059;0.388740;0.391421;0.394102;0.396783;0.399464;0.402145;0.404826;0.407507;0.410188;0.412869;0.415550;0.418231;0.420912;0.423592;0.426273;0.428954;0.431635;0.434316;0.436997;0.439678;0.442359;0.445040;0.447721;0.450402;0.453083;0.455764;0.458445;0.461126;0.463807;0.466488;0.469169;0.471850;0.474531;0.477212;0.479893;0.482574;0.485255;0.487936;0.490617;0.493298;0.495979;0.498660;0.501340;0.504021;0.506702;0.509383;0.512064;0.514745;0.517426;0.520107;0.522788;0.525469;0.528150;0.530831;0.533512;0.536193;0.538874;0.541555;0.544236;0.546917;0.549598;0.552279;0.554960;0.557641;0.560322;0.563003;0.565684;0.568365;0.571046;0.573727;0.576408;0.579088;0.581769;0.584450;0.587131;0.589812;0.592493;0.595174;0.597855;0.600536;0.603217;0.605898;0.608579;0.611260;0.613941;0.616622;0.619303;0.621984;0.624665;0.627346;0.630027;0.632708;0.635389;0.638070;0.640751;0.643432;0.646113;0.648794;0.651475;0.654155;0.656836;0.659517;0.662198;0.664879;0.667560;0.670241;0.672922;0.675603;0.678284;0.680965;0.683646;0.686327;0.689008;0.691689;0.694370;0.697051;0.699732;0.702413;0.705094;0.707775;0.710456;0.713137;0.715818;0.718499;0.721180;0.723861;0.726542;0.729223;0.731903;0.734584;0.737265;0.739946;0.742627;0.745308;0.747989;0.750670;0.753351;0.756032;0.758713;0.761394;0.764075;0.766756;0.769437;0.772118;0.774799;0.777480;0.780161;0.782842;0.785523;0.788204;0.790885;0.793566;0.796247;0.798928;0.801609;0.804290;0.806971;0.809651;0.812332;0.815013;0.817694;0.820375;0.823056;0.825737;0.828418;0.831099;0.833780;0.836461;0.839142;0.841823;0.844504;0.847185;0.849866;0.852547;0.855228;0.857909;0.860590;0.863271;0.865952;0.868633;0.871314;0.873995;0.876676;0.879357;0.882038;0.884718;0.887399;0.890080;0.892761;0.895442;0.898123;0.900804;0.903485;0.906166;0.908847;0.911528;0.914209;0.916890;0.919571;0.922252;0.924933;0.927614;0.930295;0.932976;0.935657;0.938338;0.941019;0.943700;0.946381;0.949062;0.951743;0.954424;0.957105;0.959786;0.962466;0.965147;0.967828;0.970509;0.973190;0.975871;0.978552;0.981233;0.983914;0.986595;0.989276;0.991957;0.994638;0.997319;1.000000" calcMode="linear" dur="32s" begin="0.075s" repeatCount="indefinite"/></rect>
+<rect class="snake" x="-5" y="-5" width="10" height="10" rx="3" opacity="1.00"><animateMotion values="24,52;24,68;24,84;24,100;24,116;24,132;24,148;40,148;40,132;40,116;40,100;40,84;40,68;40,52;56,52;56,68;56,84;56,100;56,116;56,132;56,148;72,148;72,132;72,116;72,100;72,84;72,68;72,52;88,52;88,68;88,84;88,100;88,116;88,132;88,148;104,148;104,132;104,116;104,100;104,84;104,68;104,52;120,52;120,68;120,84;120,100;120,116;120,132;120,148;136,148;136,132;136,116;136,100;136,84;136,68;136,52;152,52;152,68;152,84;152,100;152,116;152,132;152,148;168,148;168,132;168,116;168,100;168,84;168,68;168,52;184,52;184,68;184,84;184,100;184,116;184,132;184,148;200,148;200,132;200,116;200,100;200,84;200,68;200,52;216,52;216,68;216,84;216,100;216,116;216,132;216,148;232,148;232,132;232,116;232,100;232,84;232,68;232,52;248,52;248,68;248,84;248,100;248,116;248,132;248,148;264,148;264,132;264,116;264,100;264,84;264,68;264,52;280,52;280,68;280,84;280,100;280,116;280,132;280,148;296,148;296,132;296,116;296,100;296,84;296,68;296,52;312,52;312,68;312,84;312,100;312,116;312,132;312,148;328,148;328,132;328,116;328,100;328,84;328,68;328,52;344,52;344,68;344,84;344,100;344,116;344,132;344,148;360,148;360,132;360,116;360,100;360,84;360,68;360,52;376,52;376,68;376,84;376,100;376,116;376,132;376,148;392,148;392,132;392,116;392,100;392,84;392,68;392,52;408,52;408,68;408,84;408,100;408,116;408,132;408,148;424,148;424,132;424,116;424,100;424,84;424,68;424,52;440,52;440,68;440,84;440,100;440,116;440,132;440,148;456,148;456,132;456,116;456,100;456,84;456,68;456,52;472,52;472,68;472,84;472,100;472,116;472,132;472,148;488,148;488,132;488,116;488,100;488,84;488,68;488,52;504,52;504,68;504,84;504,100;504,116;504,132;504,148;520,148;520,132;520,116;520,100;520,84;520,68;520,52;536,52;536,68;536,84;536,100;536,116;536,132;536,148;552,148;552,132;552,116;552,100;552,84;552,68;552,52;568,52;568,68;568,84;568,100;568,116;568,132;568,148;584,148;584,132;584,116;584,100;584,84;584,68;584,52;600,52;600,68;600,84;600,100;600,116;600,132;600,148;616,148;616,132;616,116;616,100;616,84;616,68;616,52;632,52;632,68;632,84;632,100;632,116;632,132;632,148;648,148;648,132;648,116;648,100;648,84;648,68;648,52;664,52;664,68;664,84;664,100;664,116;664,132;664,148;680,148;680,132;680,116;680,100;680,84;680,68;680,52;696,52;696,68;696,84;696,100;696,116;696,132;696,148;712,148;712,132;712,116;712,100;712,84;712,68;712,52;728,52;728,68;728,84;728,100;728,116;728,132;728,148;744,148;744,132;744,116;744,100;744,84;744,68;744,52;760,52;760,68;760,84;760,100;760,116;760,132;760,148;776,148;776,132;776,116;776,100;776,84;776,68;776,52;792,52;792,68;792,84;792,100;792,116;792,132;792,148;808,148;808,132;808,116;808,100;808,84;808,68;808,52;824,52;824,68;824,84;824,100;824,116;824,132;824,148;840,148;840,132;840,116;840,100;840,84;840,68;840,52;856,52;856,68;856,84;856,100;856,116;856,132;856,148;856,176;24,176;24,52" keyTimes="0.000000;0.002681;0.005362;0.008043;0.010724;0.013405;0.016086;0.018767;0.021448;0.024129;0.026810;0.029491;0.032172;0.034853;0.037534;0.040214;0.042895;0.045576;0.048257;0.050938;0.053619;0.056300;0.058981;0.061662;0.064343;0.067024;0.069705;0.072386;0.075067;0.077748;0.080429;0.083110;0.085791;0.088472;0.091153;0.093834;0.096515;0.099196;0.101877;0.104558;0.107239;0.109920;0.112601;0.115282;0.117962;0.120643;0.123324;0.126005;0.128686;0.131367;0.134048;0.136729;0.139410;0.142091;0.144772;0.147453;0.150134;0.152815;0.155496;0.158177;0.160858;0.163539;0.166220;0.168901;0.171582;0.174263;0.176944;0.179625;0.182306;0.184987;0.187668;0.190349;0.193029;0.195710;0.198391;0.201072;0.203753;0.206434;0.209115;0.211796;0.214477;0.217158;0.219839;0.222520;0.225201;0.227882;0.230563;0.233244;0.235925;0.238606;0.241287;0.243968;0.246649;0.249330;0.252011;0.254692;0.257373;0.260054;0.262735;0.265416;0.268097;0.270777;0.273458;0.276139;0.278820;0.281501;0.284182;0.286863;0.289544;0.292225;0.294906;0.297587;0.300268;0.302949;0.305630;0.308311;0.310992;0.313673;0.316354;0.319035;0.321716;0.324397;0.327078;0.329759;0.332440;0.335121;0.337802;0.340483;0.343164;0.345845;0.348525;0.351206;0.353887;0.356568;0.359249;0.361930;0.364611;0.367292;0.369973;0.372654;0.375335;0.378016;0.380697;0.383378;0.386059;0.388740;0.391421;0.394102;0.396783;0.399464;0.402145;0.404826;0.407507;0.410188;0.412869;0.415550;0.418231;0.420912;0.423592;0.426273;0.428954;0.431635;0.434316;0.436997;0.439678;0.442359;0.445040;0.447721;0.450402;0.453083;0.455764;0.458445;0.461126;0.463807;0.466488;0.469169;0.471850;0.474531;0.477212;0.479893;0.482574;0.485255;0.487936;0.490617;0.493298;0.495979;0.498660;0.501340;0.504021;0.506702;0.509383;0.512064;0.514745;0.517426;0.520107;0.522788;0.525469;0.528150;0.530831;0.533512;0.536193;0.538874;0.541555;0.544236;0.546917;0.549598;0.552279;0.554960;0.557641;0.560322;0.563003;0.565684;0.568365;0.571046;0.573727;0.576408;0.579088;0.581769;0.584450;0.587131;0.589812;0.592493;0.595174;0.597855;0.600536;0.603217;0.605898;0.608579;0.611260;0.613941;0.616622;0.619303;0.621984;0.624665;0.627346;0.630027;0.632708;0.635389;0.638070;0.640751;0.643432;0.646113;0.648794;0.651475;0.654155;0.656836;0.659517;0.662198;0.664879;0.667560;0.670241;0.672922;0.675603;0.678284;0.680965;0.683646;0.686327;0.689008;0.691689;0.694370;0.697051;0.699732;0.702413;0.705094;0.707775;0.710456;0.713137;0.715818;0.718499;0.721180;0.723861;0.726542;0.729223;0.731903;0.734584;0.737265;0.739946;0.742627;0.745308;0.747989;0.750670;0.753351;0.756032;0.758713;0.761394;0.764075;0.766756;0.769437;0.772118;0.774799;0.777480;0.780161;0.782842;0.785523;0.788204;0.790885;0.793566;0.796247;0.798928;0.801609;0.804290;0.806971;0.809651;0.812332;0.815013;0.817694;0.820375;0.823056;0.825737;0.828418;0.831099;0.833780;0.836461;0.839142;0.841823;0.844504;0.847185;0.849866;0.852547;0.855228;0.857909;0.860590;0.863271;0.865952;0.868633;0.871314;0.873995;0.876676;0.879357;0.882038;0.884718;0.887399;0.890080;0.892761;0.895442;0.898123;0.900804;0.903485;0.906166;0.908847;0.911528;0.914209;0.916890;0.919571;0.922252;0.924933;0.927614;0.930295;0.932976;0.935657;0.938338;0.941019;0.943700;0.946381;0.949062;0.951743;0.954424;0.957105;0.959786;0.962466;0.965147;0.967828;0.970509;0.973190;0.975871;0.978552;0.981233;0.983914;0.986595;0.989276;0.991957;0.994638;0.997319;1.000000" calcMode="linear" dur="32s" begin="0.0s" repeatCount="indefinite"/></rect>
+</svg>
