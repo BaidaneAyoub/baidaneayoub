@@ -1,48 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:6366f1,100:ec4899&height=200&section=header&text=Ayoub%20Baidane&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Big%20Data%20%26%20AI%20Engineer%20in%20the%20making&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Ayoub Baidane"/>
+<img src="./header.svg" width="100%" alt="Ayoub Baidane — AI Engineer | ML, DL, NLP and RAG"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=520&lines=Big+Data+%26+AI+Student+%40+ENSA+T%C3%A9touan;Data+Engineer+%E2%80%94+Kafka+%C2%B7+Spark+%C2%B7+Airflow;ML+Engineer+%E2%80%94+TensorFlow+%C2%B7+scikit-learn;Full+Stack+%E2%80%94+React+%C2%B7+Node.js+%C2%B7+Django)](https://git.io/typing-svg)
+**Machine Learning · Deep Learning · NLP · RAG**<br/>
+**LangChain · LangGraph · Data Engineering**
 
 <a href="https://www.linkedin.com/in/ayoub-baidane-1b603131a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://instagram.com/ayoub_baid"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://baidaneayoub.github.io"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
 <a href="https://github.com/baidaneayoub?tab=followers"><img src="https://img.shields.io/github/followers/baidaneayoub?style=for-the-badge&color=6366F1&logo=github&logoColor=white&label=Followers" alt="Followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=baidaneayoub&style=for-the-badge&color=EC4899&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ## 👨‍💻 About Me
 
-I'm a 1st-year **Big Data and Artificial Intelligence (BDIA)** student at **ENSA Tétouan**, passionate about building robust data architectures and intelligent systems — on my way to becoming a **Data Engineer / Machine Learning Engineer**.
+I'm **Ayoub Baidane**, an **AI Engineer** and **Big Data & Artificial Intelligence student at ENSA Tétouan**. My focus is **Machine Learning, Deep Learning, NLP and Retrieval-Augmented Generation (RAG)**, with **LangChain and LangGraph** for LLM applications and agent workflows.
 
-| | |
+I've also worked extensively on **Data Engineering**: real-time ingestion, ETL orchestration, distributed processing and databases. That experience shapes how I approach AI systems, from preparing reliable data to connecting models with useful applications.
+
+| Focus | What I work with |
 |---|---|
-| 🔭 **Currently working on** | A real-time data pipeline — Kafka for streaming, Airflow for ETL orchestration, PostgreSQL for storage |
-| 🤝 **Looking to collaborate on** | Open-source Data Engineering projects, AI hackathons, full-stack platforms |
-| 🧠 **Looking for help with** | Scaling distributed processing with advanced Apache Spark & Hadoop architectures |
-| 🌱 **Currently learning** | IBM Data Engineering & Meta Back-End Developer Professional Certificates |
-| 💬 **Ask me about** | Python, Docker, full-stack web platforms (React / Node.js / Django) |
-| ⚡ **Fun fact** | Helped build and launch a full-stack community platform for my major in 5 months. Off the keyboard, I'm grinding in Elden Ring |
+| **Machine Learning & Deep Learning** | Data preparation, model training and evaluation with TensorFlow and scikit-learn |
+| **NLP & LLM applications** | Language models, text processing and retrieval-augmented generation |
+| **RAG & agents** | Document ingestion, retrieval, grounded responses and workflows with LangChain & LangGraph |
+| **Data Engineering** | Kafka, Spark, Airflow, Hadoop and PostgreSQL |
+| **Collaboration** | Applied AI, NLP, RAG, agent workflows and data-intensive open-source projects |
+| **Beyond AI** | Python, Docker and full-stack development with React, Node.js and Django |
 
 ### 🔁 What I build
 
 ```mermaid
 flowchart LR
-    A[Sources<br/>APIs · Web · IoT] --> B[Kafka<br/>Streaming]
-    B --> C[Spark<br/>Processing]
-    C --> D[(PostgreSQL<br/>Warehouse)]
-    D --> E[Power BI · Plotly<br/>Dashboards]
-    D --> F[ML Models<br/>TensorFlow · sklearn]
-    G[Airflow] -. orchestrates .-> B
-    G -. orchestrates .-> C
-
-    classDef purple fill:#7c3aed,stroke:#a855f7,color:#fff
-    classDef indigo fill:#6366f1,stroke:#818cf8,color:#fff
-    classDef pink fill:#ec4899,stroke:#f472b6,color:#fff
-    class A,B purple
-    class C,D,G indigo
-    class E,F pink
+    A["Documents / APIs / Streams"] --> B["Data Engineering<br/>Kafka / Spark / Airflow"]
+    B --> C["Prepared Data"]
+    C --> D["ML / DL / NLP<br/>Training and Evaluation"]
+    C --> E["Chunking and Embeddings"]
+    E --> F["Retrieval"]
+    F --> G["RAG and Agent Workflows<br/>LangChain / LangGraph"]
+    D --> H["AI Applications"]
+    G --> H
 ```
 
 ## 🛠️ Tech Stack
@@ -51,6 +47,9 @@ flowchart LR
 
 **Languages**<br/>
 <img src="https://skillicons.dev/icons?i=python,c,html,css,js&theme=dark" alt="Languages"/>
+
+**AI Engineering · NLP · RAG**<br/>
+<strong>Machine Learning · Deep Learning · LangChain · LangGraph</strong><br/><br/>
 
 **Data Engineering & Big Data**<br/>
 <img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Kafka"/><br/>
@@ -82,14 +81,12 @@ flowchart LR
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/baidaneayoub/realtime-cinema-data-engineering"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=baidaneayoub&repo=realtime-cinema-data-engineering&theme=tokyonight&hide_border=true&title_color=a855f7&icon_color=ec4899&cache_seconds=86400" alt="realtime-cinema-data-engineering"/></a>
-<a href="https://github.com/baidaneayoub/end-to-end-project-data-engineer"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=baidaneayoub&repo=end-to-end-project-data-engineer&theme=tokyonight&hide_border=true&title_color=a855f7&icon_color=ec4899&cache_seconds=86400" alt="end-to-end-project-data-engineer"/></a>
-<a href="https://github.com/baidaneayoub/ecommerce-realtime-analytics"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=baidaneayoub&repo=ecommerce-realtime-analytics&theme=tokyonight&hide_border=true&title_color=a855f7&icon_color=ec4899&cache_seconds=86400" alt="ecommerce-realtime-analytics"/></a>
-<a href="https://github.com/baidaneayoub/ML-unsupervised-learning"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=baidaneayoub&repo=ML-unsupervised-learning&theme=tokyonight&hide_border=true&title_color=a855f7&icon_color=ec4899&cache_seconds=86400" alt="ML-unsupervised-learning"/></a>
-
-</div>
+| Project | Area |
+|---|---|
+| [ML — Unsupervised Learning](https://github.com/baidaneayoub/ML-unsupervised-learning) | Machine Learning |
+| [Real-time Cinema Data Engineering](https://github.com/baidaneayoub/realtime-cinema-data-engineering) | Data Engineering |
+| [End-to-end Data Engineering](https://github.com/baidaneayoub/end-to-end-project-data-engineer) | Data Engineering |
+| [E-commerce Real-time Analytics](https://github.com/baidaneayoub/ecommerce-realtime-analytics) | Data Engineering & Analytics |
 
 ## 📊 GitHub Stats
 
@@ -109,15 +106,10 @@ flowchart LR
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baidaneayoub/baidaneayoub/output/github-snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/baidaneayoub/baidaneayoub/output/github-snake.svg" alt="Snake eating my contributions"/>
-</picture>
+<img src="./github-snake.svg" width="100%" alt="Animated snake over Ayoub Baidane’s GitHub contribution calendar"/>
+
+<sub>Contribution snapshot: 18 October 2026. Generated locally without paid services or scheduled Actions.</sub>
 
 </div>
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:6366f1,100:7c3aed&height=110&section=footer" width="100%" alt=""/>
-
-</div>
